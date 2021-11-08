@@ -1,0 +1,6 @@
+Sorted container:
+1: Train distance = 70, speed = 13, cars number = 98, optimal time = 5.384615384615385
+2: Train distance = 60, speed = 11, cars number = 25, optimal time = 5.454545454545454
+3: Train distance = 50, speed = 7, cars number = 24, optimal time = 7.142857142857143
+4: Train distance = 100, speed = 6, cars number = 24, optimal time = 16.666666666666668
+5: Train distance = 85, speed = 4, cars number = 67, optimal time = 21.25

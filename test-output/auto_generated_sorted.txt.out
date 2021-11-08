@@ -1,0 +1,1001 @@
+Sorted container:
+1: Ship liner distance = 1, speed = 100, displace = 25, optimal time = 0.01
+2: Ship tanker distance = 1, speed = 86, displace = 90, optimal time = 0.011627906976744186
+3: Ship tug distance = 1, speed = 69, displace = 88, optimal time = 0.014492753623188406
+4: Train distance = 1, speed = 66, cars number = 94, optimal time = 0.015151515151515152
+5: Train distance = 1, speed = 59, cars number = 87, optimal time = 0.01694915254237288
+6: Train distance = 1, speed = 57, cars number = 69, optimal time = 0.017543859649122806
+7: Ship tug distance = 1, speed = 49, displace = 33, optimal time = 0.02040816326530612
+8: Ship tug distance = 1, speed = 48, displace = 33, optimal time = 0.020833333333333332
+9: Plain distance = 67, speed = 46, fly distance = 1, lifting capacity = 73 optimal time = 0.021739130434782608
+10: Train distance = 2, speed = 83, cars number = 72, optimal time = 0.024096385542168676
+11: Ship liner distance = 2, speed = 80, displace = 43, optimal time = 0.025
+12: Train distance = 2, speed = 74, cars number = 24, optimal time = 0.02702702702702703
+13: Ship tanker distance = 2, speed = 67, displace = 31, optimal time = 0.029850746268656716
+14: Plain distance = 50, speed = 65, fly distance = 2, lifting capacity = 32 optimal time = 0.03076923076923077
+15: Ship liner distance = 3, speed = 87, displace = 86, optimal time = 0.034482758620689655
+16: Plain distance = 81, speed = 83, fly distance = 3, lifting capacity = 70 optimal time = 0.03614457831325301
+17: Plain distance = 43, speed = 81, fly distance = 3, lifting capacity = 75 optimal time = 0.037037037037037035
+18: Plain distance = 12, speed = 72, fly distance = 3, lifting capacity = 35 optimal time = 0.041666666666666664
+19: Train distance = 4, speed = 93, cars number = 94, optimal time = 0.043010752688172046
+20: Train distance = 4, speed = 80, cars number = 78, optimal time = 0.05
+21: Ship liner distance = 1, speed = 20, displace = 29, optimal time = 0.05
+22: Plain distance = 2, speed = 39, fly distance = 2, lifting capacity = 16 optimal time = 0.05128205128205128
+23: Ship tug distance = 3, speed = 56, displace = 96, optimal time = 0.05357142857142857
+24: Ship liner distance = 5, speed = 81, displace = 13, optimal time = 0.06172839506172839
+25: Ship tug distance = 4, speed = 61, displace = 64, optimal time = 0.06557377049180328
+26: Ship tug distance = 2, speed = 29, displace = 41, optimal time = 0.06896551724137931
+27: Ship tanker distance = 7, speed = 100, displace = 76, optimal time = 0.07
+28: Plain distance = 4, speed = 100, fly distance = 7, lifting capacity = 85 optimal time = 0.07
+29: Train distance = 4, speed = 57, cars number = 75, optimal time = 0.07017543859649122
+30: Plain distance = 84, speed = 84, fly distance = 7, lifting capacity = 47 optimal time = 0.08333333333333333
+31: Plain distance = 51, speed = 60, fly distance = 5, lifting capacity = 26 optimal time = 0.08333333333333333
+32: Train distance = 7, speed = 83, cars number = 1, optimal time = 0.08433734939759036
+33: Ship liner distance = 8, speed = 94, displace = 61, optimal time = 0.0851063829787234
+34: Train distance = 8, speed = 93, cars number = 67, optimal time = 0.08602150537634409
+35: Plain distance = 1, speed = 46, fly distance = 4, lifting capacity = 72 optimal time = 0.08695652173913043
+36: Train distance = 8, speed = 91, cars number = 68, optimal time = 0.08791208791208792
+37: Ship tanker distance = 5, speed = 56, displace = 89, optimal time = 0.08928571428571429
+38: Plain distance = 81, speed = 95, fly distance = 9, lifting capacity = 79 optimal time = 0.09473684210526316
+39: Plain distance = 16, speed = 84, fly distance = 8, lifting capacity = 72 optimal time = 0.09523809523809523
+40: Plain distance = 76, speed = 73, fly distance = 7, lifting capacity = 24 optimal time = 0.0958904109589041
+41: Train distance = 5, speed = 52, cars number = 18, optimal time = 0.09615384615384616
+42: Train distance = 5, speed = 51, cars number = 53, optimal time = 0.09803921568627451
+43: Ship tanker distance = 3, speed = 30, displace = 86, optimal time = 0.1
+44: Ship liner distance = 6, speed = 60, displace = 52, optimal time = 0.1
+45: Train distance = 8, speed = 77, cars number = 44, optimal time = 0.1038961038961039
+46: Ship liner distance = 9, speed = 86, displace = 60, optimal time = 0.10465116279069768
+47: Train distance = 10, speed = 93, cars number = 10, optimal time = 0.10752688172043011
+48: Plain distance = 95, speed = 46, fly distance = 5, lifting capacity = 56 optimal time = 0.10869565217391304
+49: Ship tug distance = 10, speed = 90, displace = 84, optimal time = 0.1111111111111111
+50: Plain distance = 93, speed = 27, fly distance = 3, lifting capacity = 7 optimal time = 0.1111111111111111
+51: Ship tug distance = 3, speed = 27, displace = 73, optimal time = 0.1111111111111111
+52: Train distance = 7, speed = 61, cars number = 82, optimal time = 0.11475409836065574
+53: Ship tanker distance = 6, speed = 52, displace = 94, optimal time = 0.11538461538461539
+54: Plain distance = 15, speed = 60, fly distance = 7, lifting capacity = 42 optimal time = 0.11666666666666667
+55: Train distance = 4, speed = 34, cars number = 96, optimal time = 0.11764705882352941
+56: Plain distance = 99, speed = 84, fly distance = 10, lifting capacity = 61 optimal time = 0.11904761904761904
+57: Train distance = 7, speed = 58, cars number = 84, optimal time = 0.1206896551724138
+58: Ship tanker distance = 12, speed = 96, displace = 32, optimal time = 0.125
+59: Plain distance = 76, speed = 38, fly distance = 5, lifting capacity = 69 optimal time = 0.13157894736842105
+60: Train distance = 7, speed = 53, cars number = 21, optimal time = 0.1320754716981132
+61: Ship tanker distance = 10, speed = 75, displace = 92, optimal time = 0.13333333333333333
+62: Train distance = 10, speed = 75, cars number = 58, optimal time = 0.13333333333333333
+63: Plain distance = 67, speed = 30, fly distance = 4, lifting capacity = 98 optimal time = 0.13333333333333333
+64: Ship tanker distance = 6, speed = 45, displace = 58, optimal time = 0.13333333333333333
+65: Plain distance = 99, speed = 82, fly distance = 11, lifting capacity = 20 optimal time = 0.13414634146341464
+66: Train distance = 13, speed = 95, cars number = 41, optimal time = 0.1368421052631579
+67: Plain distance = 75, speed = 86, fly distance = 12, lifting capacity = 4 optimal time = 0.13953488372093023
+68: Plain distance = 90, speed = 78, fly distance = 11, lifting capacity = 63 optimal time = 0.14102564102564102
+69: Ship tug distance = 3, speed = 21, displace = 70, optimal time = 0.14285714285714285
+70: Plain distance = 48, speed = 90, fly distance = 13, lifting capacity = 30 optimal time = 0.14444444444444443
+71: Ship liner distance = 12, speed = 82, displace = 38, optimal time = 0.14634146341463414
+72: Plain distance = 1, speed = 75, fly distance = 11, lifting capacity = 34 optimal time = 0.14666666666666667
+73: Plain distance = 71, speed = 68, fly distance = 10, lifting capacity = 70 optimal time = 0.14705882352941177
+74: Ship tanker distance = 8, speed = 54, displace = 62, optimal time = 0.14814814814814814
+75: Ship liner distance = 11, speed = 70, displace = 94, optimal time = 0.15714285714285714
+76: Ship tanker distance = 11, speed = 67, displace = 72, optimal time = 0.16417910447761194
+77: Ship liner distance = 1, speed = 6, displace = 50, optimal time = 0.16666666666666666
+78: Ship tug distance = 5, speed = 30, displace = 86, optimal time = 0.16666666666666666
+79: Train distance = 1, speed = 6, cars number = 80, optimal time = 0.16666666666666666
+80: Ship tanker distance = 14, speed = 82, displace = 51, optimal time = 0.17073170731707318
+81: Ship tug distance = 12, speed = 70, displace = 80, optimal time = 0.17142857142857143
+82: Train distance = 17, speed = 98, cars number = 85, optimal time = 0.17346938775510204
+83: Train distance = 4, speed = 23, cars number = 13, optimal time = 0.17391304347826086
+84: Ship liner distance = 17, speed = 97, displace = 54, optimal time = 0.17525773195876287
+85: Plain distance = 82, speed = 34, fly distance = 6, lifting capacity = 7 optimal time = 0.17647058823529413
+86: Train distance = 14, speed = 79, cars number = 68, optimal time = 0.17721518987341772
+87: Plain distance = 50, speed = 45, fly distance = 8, lifting capacity = 2 optimal time = 0.17777777777777778
+88: Plain distance = 71, speed = 67, fly distance = 12, lifting capacity = 70 optimal time = 0.1791044776119403
+89: Train distance = 18, speed = 100, cars number = 97, optimal time = 0.18
+90: Ship liner distance = 13, speed = 72, displace = 6, optimal time = 0.18055555555555555
+91: Ship liner distance = 15, speed = 83, displace = 47, optimal time = 0.18072289156626506
+92: Plain distance = 80, speed = 33, fly distance = 6, lifting capacity = 28 optimal time = 0.18181818181818182
+93: Ship liner distance = 16, speed = 88, displace = 31, optimal time = 0.18181818181818182
+94: Plain distance = 46, speed = 81, fly distance = 15, lifting capacity = 66 optimal time = 0.18518518518518517
+95: Plain distance = 10, speed = 97, fly distance = 18, lifting capacity = 16 optimal time = 0.18556701030927836
+96: Ship tanker distance = 17, speed = 87, displace = 48, optimal time = 0.19540229885057472
+97: Ship liner distance = 13, speed = 66, displace = 45, optimal time = 0.19696969696969696
+98: Ship tanker distance = 11, speed = 55, displace = 36, optimal time = 0.2
+99: Plain distance = 38, speed = 20, fly distance = 4, lifting capacity = 69 optimal time = 0.2
+100: Train distance = 18, speed = 90, cars number = 42, optimal time = 0.2
+101: Train distance = 17, speed = 85, cars number = 89, optimal time = 0.2
+102: Train distance = 20, speed = 98, cars number = 19, optimal time = 0.20408163265306123
+103: Train distance = 19, speed = 92, cars number = 51, optimal time = 0.20652173913043478
+104: Ship tanker distance = 18, speed = 87, displace = 99, optimal time = 0.20689655172413793
+105: Plain distance = 50, speed = 53, fly distance = 11, lifting capacity = 69 optimal time = 0.20754716981132076
+106: Plain distance = 30, speed = 96, fly distance = 20, lifting capacity = 33 optimal time = 0.20833333333333334
+107: Ship tug distance = 15, speed = 72, displace = 38, optimal time = 0.20833333333333334
+108: Train distance = 14, speed = 67, cars number = 97, optimal time = 0.208955223880597
+109: Train distance = 18, speed = 86, cars number = 52, optimal time = 0.20930232558139536
+110: Plain distance = 61, speed = 43, fly distance = 9, lifting capacity = 60 optimal time = 0.20930232558139536
+111: Ship tanker distance = 18, speed = 85, displace = 94, optimal time = 0.21176470588235294
+112: Ship tug distance = 9, speed = 42, displace = 65, optimal time = 0.21428571428571427
+113: Plain distance = 85, speed = 84, fly distance = 18, lifting capacity = 69 optimal time = 0.21428571428571427
+114: Ship tanker distance = 7, speed = 32, displace = 75, optimal time = 0.21875
+115: Train distance = 7, speed = 32, cars number = 31, optimal time = 0.21875
+116: Plain distance = 71, speed = 63, fly distance = 14, lifting capacity = 47 optimal time = 0.2222222222222222
+117: Plain distance = 88, speed = 76, fly distance = 17, lifting capacity = 76 optimal time = 0.2236842105263158
+118: Plain distance = 23, speed = 58, fly distance = 13, lifting capacity = 41 optimal time = 0.22413793103448276
+119: Ship liner distance = 19, speed = 84, displace = 98, optimal time = 0.2261904761904762
+120: Plain distance = 17, speed = 53, fly distance = 12, lifting capacity = 34 optimal time = 0.22641509433962265
+121: Train distance = 13, speed = 56, cars number = 43, optimal time = 0.23214285714285715
+122: Ship liner distance = 20, speed = 86, displace = 4, optimal time = 0.23255813953488372
+123: Ship tug distance = 22, speed = 94, displace = 54, optimal time = 0.23404255319148937
+124: Plain distance = 36, speed = 98, fly distance = 23, lifting capacity = 57 optimal time = 0.23469387755102042
+125: Plain distance = 2, speed = 93, fly distance = 22, lifting capacity = 80 optimal time = 0.23655913978494625
+126: Ship tug distance = 20, speed = 84, displace = 19, optimal time = 0.23809523809523808
+127: Ship tanker distance = 21, speed = 88, displace = 44, optimal time = 0.23863636363636365
+128: Train distance = 1, speed = 4, cars number = 92, optimal time = 0.25
+129: Plain distance = 21, speed = 28, fly distance = 7, lifting capacity = 43 optimal time = 0.25
+130: Ship tug distance = 23, speed = 92, displace = 28, optimal time = 0.25
+131: Train distance = 23, speed = 92, cars number = 48, optimal time = 0.25
+132: Plain distance = 13, speed = 59, fly distance = 15, lifting capacity = 57 optimal time = 0.2542372881355932
+133: Plain distance = 75, speed = 43, fly distance = 11, lifting capacity = 58 optimal time = 0.2558139534883721
+134: Ship liner distance = 20, speed = 78, displace = 85, optimal time = 0.2564102564102564
+135: Train distance = 13, speed = 50, cars number = 56, optimal time = 0.26
+136: Plain distance = 10, speed = 76, fly distance = 20, lifting capacity = 63 optimal time = 0.2631578947368421
+137: Train distance = 20, speed = 76, cars number = 66, optimal time = 0.2631578947368421
+138: Plain distance = 6, speed = 72, fly distance = 19, lifting capacity = 91 optimal time = 0.2638888888888889
+139: Plain distance = 8, speed = 83, fly distance = 22, lifting capacity = 60 optimal time = 0.26506024096385544
+140: Plain distance = 65, speed = 83, fly distance = 22, lifting capacity = 62 optimal time = 0.26506024096385544
+141: Ship tanker distance = 26, speed = 97, displace = 58, optimal time = 0.26804123711340205
+142: Train distance = 18, speed = 67, cars number = 61, optimal time = 0.26865671641791045
+143: Ship tanker distance = 19, speed = 70, displace = 39, optimal time = 0.2714285714285714
+144: Ship liner distance = 19, speed = 70, displace = 91, optimal time = 0.2714285714285714
+145: Ship tanker distance = 18, speed = 66, displace = 1, optimal time = 0.2727272727272727
+146: Ship tanker distance = 20, speed = 73, displace = 96, optimal time = 0.273972602739726
+147: Train distance = 24, speed = 87, cars number = 15, optimal time = 0.27586206896551724
+148: Train distance = 13, speed = 47, cars number = 57, optimal time = 0.2765957446808511
+149: Train distance = 18, speed = 65, cars number = 33, optimal time = 0.27692307692307694
+150: Plain distance = 79, speed = 18, fly distance = 5, lifting capacity = 63 optimal time = 0.2777777777777778
+151: Plain distance = 50, speed = 82, fly distance = 23, lifting capacity = 63 optimal time = 0.2804878048780488
+152: Plain distance = 97, speed = 74, fly distance = 21, lifting capacity = 35 optimal time = 0.28378378378378377
+153: Plain distance = 9, speed = 35, fly distance = 10, lifting capacity = 30 optimal time = 0.2857142857142857
+154: Plain distance = 50, speed = 83, fly distance = 24, lifting capacity = 93 optimal time = 0.2891566265060241
+155: Ship liner distance = 25, speed = 86, displace = 54, optimal time = 0.29069767441860467
+156: Plain distance = 89, speed = 55, fly distance = 16, lifting capacity = 82 optimal time = 0.2909090909090909
+157: Train distance = 5, speed = 17, cars number = 94, optimal time = 0.29411764705882354
+158: Train distance = 27, speed = 91, cars number = 60, optimal time = 0.2967032967032967
+159: Plain distance = 10, speed = 40, fly distance = 12, lifting capacity = 93 optimal time = 0.3
+160: Train distance = 28, speed = 93, cars number = 25, optimal time = 0.3010752688172043
+161: Ship tug distance = 19, speed = 63, displace = 39, optimal time = 0.30158730158730157
+162: Ship tug distance = 16, speed = 52, displace = 16, optimal time = 0.3076923076923077
+163: Ship tanker distance = 29, speed = 92, displace = 95, optimal time = 0.31521739130434784
+164: Ship tug distance = 29, speed = 91, displace = 47, optimal time = 0.31868131868131866
+165: Train distance = 27, speed = 84, cars number = 48, optimal time = 0.32142857142857145
+166: Plain distance = 68, speed = 87, fly distance = 28, lifting capacity = 61 optimal time = 0.3218390804597701
+167: Ship tug distance = 25, speed = 77, displace = 45, optimal time = 0.3246753246753247
+168: Ship tanker distance = 27, speed = 83, displace = 93, optimal time = 0.3253012048192771
+169: Ship liner distance = 31, speed = 95, displace = 1, optimal time = 0.3263157894736842
+170: Train distance = 24, speed = 73, cars number = 40, optimal time = 0.3287671232876712
+171: Plain distance = 21, speed = 99, fly distance = 33, lifting capacity = 43 optimal time = 0.3333333333333333
+172: Train distance = 29, speed = 87, cars number = 48, optimal time = 0.3333333333333333
+173: Train distance = 24, speed = 71, cars number = 85, optimal time = 0.3380281690140845
+174: Ship liner distance = 11, speed = 32, displace = 11, optimal time = 0.34375
+175: Train distance = 21, speed = 61, cars number = 99, optimal time = 0.3442622950819672
+176: Train distance = 28, speed = 81, cars number = 78, optimal time = 0.345679012345679
+177: Plain distance = 26, speed = 40, fly distance = 14, lifting capacity = 69 optimal time = 0.35
+178: Plain distance = 49, speed = 80, fly distance = 28, lifting capacity = 12 optimal time = 0.35
+179: Train distance = 19, speed = 54, cars number = 57, optimal time = 0.35185185185185186
+180: Train distance = 31, speed = 88, cars number = 92, optimal time = 0.3522727272727273
+181: Plain distance = 67, speed = 76, fly distance = 27, lifting capacity = 48 optimal time = 0.35526315789473684
+182: Plain distance = 85, speed = 59, fly distance = 21, lifting capacity = 57 optimal time = 0.3559322033898305
+183: Plain distance = 34, speed = 81, fly distance = 29, lifting capacity = 73 optimal time = 0.35802469135802467
+184: Plain distance = 28, speed = 67, fly distance = 24, lifting capacity = 26 optimal time = 0.3582089552238806
+185: Plain distance = 25, speed = 64, fly distance = 23, lifting capacity = 11 optimal time = 0.359375
+186: Plain distance = 79, speed = 25, fly distance = 9, lifting capacity = 39 optimal time = 0.36
+187: Plain distance = 8, speed = 83, fly distance = 30, lifting capacity = 52 optimal time = 0.3614457831325301
+188: Train distance = 12, speed = 33, cars number = 31, optimal time = 0.36363636363636365
+189: Ship tanker distance = 33, speed = 90, displace = 24, optimal time = 0.36666666666666664
+190: Plain distance = 73, speed = 98, fly distance = 36, lifting capacity = 82 optimal time = 0.3673469387755102
+191: Ship tug distance = 10, speed = 27, displace = 64, optimal time = 0.37037037037037035
+192: Ship tanker distance = 30, speed = 81, displace = 84, optimal time = 0.37037037037037035
+193: Plain distance = 72, speed = 97, fly distance = 36, lifting capacity = 3 optimal time = 0.3711340206185567
+194: Train distance = 31, speed = 83, cars number = 70, optimal time = 0.37349397590361444
+195: Plain distance = 12, speed = 24, fly distance = 9, lifting capacity = 26 optimal time = 0.375
+196: Plain distance = 55, speed = 56, fly distance = 21, lifting capacity = 1 optimal time = 0.375
+197: Train distance = 28, speed = 74, cars number = 51, optimal time = 0.3783783783783784
+198: Train distance = 36, speed = 95, cars number = 100, optimal time = 0.37894736842105264
+199: Train distance = 37, speed = 97, cars number = 72, optimal time = 0.38144329896907214
+200: Plain distance = 39, speed = 94, fly distance = 36, lifting capacity = 98 optimal time = 0.3829787234042553
+201: Plain distance = 68, speed = 70, fly distance = 27, lifting capacity = 48 optimal time = 0.38571428571428573
+202: Train distance = 29, speed = 75, cars number = 33, optimal time = 0.38666666666666666
+203: Train distance = 19, speed = 49, cars number = 54, optimal time = 0.3877551020408163
+204: Ship tug distance = 34, speed = 87, displace = 65, optimal time = 0.39080459770114945
+205: Train distance = 22, speed = 56, cars number = 16, optimal time = 0.39285714285714285
+206: Ship tug distance = 17, speed = 43, displace = 65, optimal time = 0.3953488372093023
+207: Plain distance = 28, speed = 53, fly distance = 21, lifting capacity = 79 optimal time = 0.39622641509433965
+208: Train distance = 25, speed = 62, cars number = 81, optimal time = 0.4032258064516129
+209: Plain distance = 97, speed = 52, fly distance = 21, lifting capacity = 78 optimal time = 0.40384615384615385
+210: Plain distance = 41, speed = 69, fly distance = 28, lifting capacity = 32 optimal time = 0.4057971014492754
+211: Plain distance = 7, speed = 27, fly distance = 11, lifting capacity = 23 optimal time = 0.4074074074074074
+212: Ship liner distance = 27, speed = 66, displace = 24, optimal time = 0.4090909090909091
+213: Train distance = 35, speed = 85, cars number = 93, optimal time = 0.4117647058823529
+214: Plain distance = 39, speed = 75, fly distance = 31, lifting capacity = 56 optimal time = 0.41333333333333333
+215: Ship tug distance = 29, speed = 70, displace = 66, optimal time = 0.4142857142857143
+216: Train distance = 17, speed = 41, cars number = 79, optimal time = 0.4146341463414634
+217: Ship tug distance = 32, speed = 77, displace = 62, optimal time = 0.4155844155844156
+218: Train distance = 37, speed = 89, cars number = 68, optimal time = 0.4157303370786517
+219: Ship liner distance = 40, speed = 96, displace = 9, optimal time = 0.4166666666666667
+220: Train distance = 33, speed = 79, cars number = 79, optimal time = 0.4177215189873418
+221: Train distance = 21, speed = 50, cars number = 21, optimal time = 0.42
+222: Train distance = 40, speed = 95, cars number = 17, optimal time = 0.42105263157894735
+223: Train distance = 22, speed = 52, cars number = 44, optimal time = 0.4230769230769231
+224: Ship liner distance = 31, speed = 73, displace = 39, optimal time = 0.4246575342465753
+225: Train distance = 17, speed = 40, cars number = 16, optimal time = 0.425
+226: Train distance = 9, speed = 21, cars number = 10, optimal time = 0.42857142857142855
+227: Plain distance = 90, speed = 60, fly distance = 26, lifting capacity = 26 optimal time = 0.43333333333333335
+228: Plain distance = 76, speed = 62, fly distance = 27, lifting capacity = 9 optimal time = 0.43548387096774194
+229: Train distance = 34, speed = 78, cars number = 68, optimal time = 0.4358974358974359
+230: Plain distance = 22, speed = 55, fly distance = 24, lifting capacity = 19 optimal time = 0.43636363636363634
+231: Plain distance = 52, speed = 16, fly distance = 7, lifting capacity = 63 optimal time = 0.4375
+232: Train distance = 36, speed = 81, cars number = 53, optimal time = 0.4444444444444444
+233: Ship tanker distance = 41, speed = 92, displace = 15, optimal time = 0.44565217391304346
+234: Plain distance = 1, speed = 65, fly distance = 29, lifting capacity = 55 optimal time = 0.4461538461538462
+235: Plain distance = 7, speed = 47, fly distance = 21, lifting capacity = 45 optimal time = 0.44680851063829785
+236: Train distance = 26, speed = 58, cars number = 30, optimal time = 0.4482758620689655
+237: Plain distance = 45, speed = 49, fly distance = 22, lifting capacity = 100 optimal time = 0.4489795918367347
+238: Plain distance = 15, speed = 71, fly distance = 32, lifting capacity = 70 optimal time = 0.4507042253521127
+239: Train distance = 33, speed = 73, cars number = 63, optimal time = 0.4520547945205479
+240: Plain distance = 17, speed = 33, fly distance = 15, lifting capacity = 26 optimal time = 0.45454545454545453
+241: Plain distance = 37, speed = 39, fly distance = 18, lifting capacity = 89 optimal time = 0.46153846153846156
+242: Train distance = 31, speed = 67, cars number = 85, optimal time = 0.4626865671641791
+243: Ship tug distance = 28, speed = 60, displace = 1, optimal time = 0.4666666666666667
+244: Train distance = 23, speed = 49, cars number = 1, optimal time = 0.46938775510204084
+245: Plain distance = 90, speed = 91, fly distance = 43, lifting capacity = 42 optimal time = 0.4725274725274725
+246: Train distance = 18, speed = 38, cars number = 4, optimal time = 0.47368421052631576
+247: Ship tug distance = 11, speed = 23, displace = 71, optimal time = 0.4782608695652174
+248: Ship tanker distance = 27, speed = 56, displace = 50, optimal time = 0.48214285714285715
+249: Plain distance = 25, speed = 93, fly distance = 45, lifting capacity = 43 optimal time = 0.4838709677419355
+250: Plain distance = 21, speed = 68, fly distance = 33, lifting capacity = 6 optimal time = 0.4852941176470588
+251: Plain distance = 21, speed = 70, fly distance = 34, lifting capacity = 40 optimal time = 0.4857142857142857
+252: Ship liner distance = 31, speed = 63, displace = 48, optimal time = 0.49206349206349204
+253: Ship tanker distance = 38, speed = 77, displace = 2, optimal time = 0.4935064935064935
+254: Ship liner distance = 41, speed = 83, displace = 79, optimal time = 0.4939759036144578
+255: Train distance = 46, speed = 93, cars number = 9, optimal time = 0.4946236559139785
+256: Plain distance = 40, speed = 88, fly distance = 44, lifting capacity = 77 optimal time = 0.5
+257: Train distance = 44, speed = 88, cars number = 94, optimal time = 0.5
+258: Plain distance = 62, speed = 68, fly distance = 34, lifting capacity = 85 optimal time = 0.5
+259: Train distance = 41, speed = 82, cars number = 7, optimal time = 0.5
+260: Ship liner distance = 24, speed = 48, displace = 77, optimal time = 0.5
+261: Train distance = 16, speed = 32, cars number = 65, optimal time = 0.5
+262: Plain distance = 29, speed = 84, fly distance = 42, lifting capacity = 61 optimal time = 0.5
+263: Plain distance = 17, speed = 97, fly distance = 49, lifting capacity = 76 optimal time = 0.5051546391752577
+264: Plain distance = 50, speed = 63, fly distance = 32, lifting capacity = 60 optimal time = 0.5079365079365079
+265: Train distance = 24, speed = 47, cars number = 3, optimal time = 0.5106382978723404
+266: Plain distance = 38, speed = 39, fly distance = 20, lifting capacity = 72 optimal time = 0.5128205128205128
+267: Train distance = 16, speed = 31, cars number = 4, optimal time = 0.5161290322580645
+268: Train distance = 30, speed = 58, cars number = 87, optimal time = 0.5172413793103449
+269: Train distance = 51, speed = 98, cars number = 19, optimal time = 0.5204081632653061
+270: Train distance = 34, speed = 65, cars number = 1, optimal time = 0.5230769230769231
+271: Train distance = 45, speed = 86, cars number = 12, optimal time = 0.5232558139534884
+272: Ship tug distance = 45, speed = 86, displace = 79, optimal time = 0.5232558139534884
+273: Train distance = 44, speed = 84, cars number = 18, optimal time = 0.5238095238095238
+274: Train distance = 30, speed = 57, cars number = 15, optimal time = 0.5263157894736842
+275: Plain distance = 7, speed = 55, fly distance = 29, lifting capacity = 68 optimal time = 0.5272727272727272
+276: Train distance = 37, speed = 70, cars number = 6, optimal time = 0.5285714285714286
+277: Train distance = 45, speed = 85, cars number = 100, optimal time = 0.5294117647058824
+278: Plain distance = 18, speed = 30, fly distance = 16, lifting capacity = 60 optimal time = 0.5333333333333333
+279: Ship liner distance = 30, speed = 56, displace = 18, optimal time = 0.5357142857142857
+280: Train distance = 7, speed = 13, cars number = 25, optimal time = 0.5384615384615384
+281: Train distance = 42, speed = 78, cars number = 15, optimal time = 0.5384615384615384
+282: Ship liner distance = 53, speed = 97, displace = 88, optimal time = 0.5463917525773195
+283: Train distance = 45, speed = 82, cars number = 41, optimal time = 0.5487804878048781
+284: Train distance = 28, speed = 51, cars number = 40, optimal time = 0.5490196078431373
+285: Ship liner distance = 32, speed = 58, displace = 40, optimal time = 0.5517241379310345
+286: Train distance = 45, speed = 81, cars number = 42, optimal time = 0.5555555555555556
+287: Train distance = 35, speed = 63, cars number = 64, optimal time = 0.5555555555555556
+288: Ship tug distance = 50, speed = 90, displace = 93, optimal time = 0.5555555555555556
+289: Ship tug distance = 49, speed = 88, displace = 40, optimal time = 0.5568181818181818
+290: Ship tug distance = 39, speed = 70, displace = 94, optimal time = 0.5571428571428572
+291: Plain distance = 44, speed = 84, fly distance = 47, lifting capacity = 81 optimal time = 0.5595238095238095
+292: Train distance = 14, speed = 25, cars number = 85, optimal time = 0.56
+293: Train distance = 45, speed = 80, cars number = 89, optimal time = 0.5625
+294: Train distance = 52, speed = 92, cars number = 11, optimal time = 0.5652173913043478
+295: Ship tanker distance = 34, speed = 60, displace = 6, optimal time = 0.5666666666666667
+296: Train distance = 25, speed = 44, cars number = 7, optimal time = 0.5681818181818182
+297: Ship liner distance = 49, speed = 86, displace = 86, optimal time = 0.5697674418604651
+298: Ship tanker distance = 52, speed = 91, displace = 6, optimal time = 0.5714285714285714
+299: Ship tug distance = 27, speed = 47, displace = 50, optimal time = 0.574468085106383
+300: Ship tug distance = 34, speed = 59, displace = 90, optimal time = 0.576271186440678
+301: Plain distance = 59, speed = 98, fly distance = 57, lifting capacity = 36 optimal time = 0.5816326530612245
+302: Train distance = 32, speed = 55, cars number = 16, optimal time = 0.5818181818181818
+303: Train distance = 41, speed = 70, cars number = 24, optimal time = 0.5857142857142857
+304: Ship tanker distance = 13, speed = 22, displace = 7, optimal time = 0.5909090909090909
+305: Train distance = 42, speed = 71, cars number = 66, optimal time = 0.5915492957746479
+306: Ship tanker distance = 58, speed = 98, displace = 74, optimal time = 0.5918367346938775
+307: Plain distance = 59, speed = 59, fly distance = 35, lifting capacity = 97 optimal time = 0.5932203389830508
+308: Train distance = 22, speed = 37, cars number = 55, optimal time = 0.5945945945945946
+309: Ship tanker distance = 59, speed = 99, displace = 85, optimal time = 0.5959595959595959
+310: Plain distance = 30, speed = 30, fly distance = 18, lifting capacity = 20 optimal time = 0.6
+311: Ship tug distance = 51, speed = 85, displace = 48, optimal time = 0.6
+312: Plain distance = 68, speed = 88, fly distance = 53, lifting capacity = 84 optimal time = 0.6022727272727273
+313: Ship liner distance = 47, speed = 78, displace = 23, optimal time = 0.6025641025641025
+314: Plain distance = 99, speed = 71, fly distance = 43, lifting capacity = 43 optimal time = 0.6056338028169014
+315: Plain distance = 95, speed = 23, fly distance = 14, lifting capacity = 19 optimal time = 0.6086956521739131
+316: Ship tug distance = 47, speed = 77, displace = 83, optimal time = 0.6103896103896104
+317: Train distance = 47, speed = 77, cars number = 5, optimal time = 0.6103896103896104
+318: Train distance = 41, speed = 67, cars number = 100, optimal time = 0.6119402985074627
+319: Train distance = 49, speed = 80, cars number = 51, optimal time = 0.6125
+320: Train distance = 32, speed = 52, cars number = 91, optimal time = 0.6153846153846154
+321: Ship liner distance = 21, speed = 34, displace = 18, optimal time = 0.6176470588235294
+322: Plain distance = 68, speed = 68, fly distance = 42, lifting capacity = 68 optimal time = 0.6176470588235294
+323: Train distance = 47, speed = 76, cars number = 98, optimal time = 0.618421052631579
+324: Ship tanker distance = 23, speed = 37, displace = 33, optimal time = 0.6216216216216216
+325: Train distance = 46, speed = 74, cars number = 10, optimal time = 0.6216216216216216
+326: Ship liner distance = 58, speed = 93, displace = 79, optimal time = 0.6236559139784946
+327: Ship liner distance = 42, speed = 67, displace = 40, optimal time = 0.6268656716417911
+328: Plain distance = 76, speed = 100, fly distance = 63, lifting capacity = 32 optimal time = 0.63
+329: Plain distance = 79, speed = 49, fly distance = 31, lifting capacity = 79 optimal time = 0.6326530612244898
+330: Train distance = 40, speed = 63, cars number = 27, optimal time = 0.6349206349206349
+331: Plain distance = 4, speed = 85, fly distance = 54, lifting capacity = 22 optimal time = 0.6352941176470588
+332: Plain distance = 55, speed = 69, fly distance = 44, lifting capacity = 29 optimal time = 0.6376811594202898
+333: Train distance = 53, speed = 83, cars number = 55, optimal time = 0.6385542168674698
+334: Plain distance = 13, speed = 61, fly distance = 39, lifting capacity = 61 optimal time = 0.639344262295082
+335: Train distance = 64, speed = 100, cars number = 48, optimal time = 0.64
+336: Plain distance = 97, speed = 45, fly distance = 29, lifting capacity = 31 optimal time = 0.6444444444444445
+337: Train distance = 57, speed = 88, cars number = 98, optimal time = 0.6477272727272727
+338: Train distance = 57, speed = 88, cars number = 25, optimal time = 0.6477272727272727
+339: Train distance = 46, speed = 71, cars number = 82, optimal time = 0.647887323943662
+340: Plain distance = 47, speed = 94, fly distance = 61, lifting capacity = 28 optimal time = 0.648936170212766
+341: Ship liner distance = 54, speed = 83, displace = 65, optimal time = 0.6506024096385542
+342: Plain distance = 18, speed = 67, fly distance = 44, lifting capacity = 26 optimal time = 0.6567164179104478
+343: Ship tanker distance = 50, speed = 76, displace = 25, optimal time = 0.6578947368421053
+344: Plain distance = 48, speed = 76, fly distance = 50, lifting capacity = 2 optimal time = 0.6578947368421053
+345: Plain distance = 20, speed = 85, fly distance = 56, lifting capacity = 88 optimal time = 0.6588235294117647
+346: Ship liner distance = 33, speed = 50, displace = 28, optimal time = 0.66
+347: Ship liner distance = 66, speed = 100, displace = 14, optimal time = 0.66
+348: Plain distance = 86, speed = 59, fly distance = 39, lifting capacity = 15 optimal time = 0.6610169491525424
+349: Plain distance = 10, speed = 59, fly distance = 39, lifting capacity = 51 optimal time = 0.6610169491525424
+350: Train distance = 40, speed = 60, cars number = 2, optimal time = 0.6666666666666666
+351: Plain distance = 8, speed = 99, fly distance = 66, lifting capacity = 51 optimal time = 0.6666666666666666
+352: Ship liner distance = 53, speed = 79, displace = 87, optimal time = 0.6708860759493671
+353: Ship tug distance = 41, speed = 61, displace = 42, optimal time = 0.6721311475409836
+354: Ship tanker distance = 63, speed = 93, displace = 60, optimal time = 0.6774193548387096
+355: Plain distance = 3, speed = 78, fly distance = 53, lifting capacity = 41 optimal time = 0.6794871794871795
+356: Plain distance = 76, speed = 78, fly distance = 53, lifting capacity = 71 optimal time = 0.6794871794871795
+357: Ship tug distance = 53, speed = 78, displace = 41, optimal time = 0.6794871794871795
+358: Ship tanker distance = 56, speed = 82, displace = 42, optimal time = 0.6829268292682927
+359: Plain distance = 24, speed = 95, fly distance = 65, lifting capacity = 55 optimal time = 0.6842105263157895
+360: Plain distance = 33, speed = 70, fly distance = 48, lifting capacity = 89 optimal time = 0.6857142857142857
+361: Train distance = 35, speed = 51, cars number = 50, optimal time = 0.6862745098039216
+362: Plain distance = 93, speed = 29, fly distance = 20, lifting capacity = 12 optimal time = 0.6896551724137931
+363: Train distance = 38, speed = 55, cars number = 1, optimal time = 0.6909090909090909
+364: Plain distance = 62, speed = 68, fly distance = 47, lifting capacity = 60 optimal time = 0.6911764705882353
+365: Ship liner distance = 63, speed = 91, displace = 7, optimal time = 0.6923076923076923
+366: Train distance = 59, speed = 85, cars number = 50, optimal time = 0.6941176470588235
+367: Plain distance = 71, speed = 70, fly distance = 49, lifting capacity = 77 optimal time = 0.7
+368: Train distance = 28, speed = 40, cars number = 64, optimal time = 0.7
+369: Train distance = 56, speed = 80, cars number = 34, optimal time = 0.7
+370: Train distance = 65, speed = 92, cars number = 20, optimal time = 0.7065217391304348
+371: Plain distance = 13, speed = 72, fly distance = 51, lifting capacity = 49 optimal time = 0.7083333333333334
+372: Ship liner distance = 59, speed = 83, displace = 47, optimal time = 0.7108433734939759
+373: Train distance = 42, speed = 59, cars number = 31, optimal time = 0.711864406779661
+374: Ship tanker distance = 47, speed = 66, displace = 10, optimal time = 0.7121212121212122
+375: Train distance = 62, speed = 87, cars number = 29, optimal time = 0.7126436781609196
+376: Plain distance = 38, speed = 63, fly distance = 45, lifting capacity = 25 optimal time = 0.7142857142857143
+377: Train distance = 50, speed = 70, cars number = 48, optimal time = 0.7142857142857143
+378: Plain distance = 99, speed = 98, fly distance = 70, lifting capacity = 85 optimal time = 0.7142857142857143
+379: Train distance = 46, speed = 64, cars number = 92, optimal time = 0.71875
+380: Train distance = 69, speed = 96, cars number = 4, optimal time = 0.71875
+381: Plain distance = 8, speed = 76, fly distance = 55, lifting capacity = 68 optimal time = 0.7236842105263158
+382: Train distance = 71, speed = 98, cars number = 73, optimal time = 0.7244897959183674
+383: Train distance = 43, speed = 59, cars number = 89, optimal time = 0.7288135593220338
+384: Plain distance = 3, speed = 100, fly distance = 73, lifting capacity = 56 optimal time = 0.73
+385: Plain distance = 16, speed = 93, fly distance = 68, lifting capacity = 62 optimal time = 0.7311827956989247
+386: Ship liner distance = 46, speed = 62, displace = 7, optimal time = 0.7419354838709677
+387: Ship liner distance = 50, speed = 67, displace = 46, optimal time = 0.746268656716418
+388: Train distance = 62, speed = 83, cars number = 56, optimal time = 0.7469879518072289
+389: Ship tanker distance = 63, speed = 84, displace = 82, optimal time = 0.75
+390: Ship tanker distance = 45, speed = 60, displace = 81, optimal time = 0.75
+391: Ship tanker distance = 66, speed = 88, displace = 33, optimal time = 0.75
+392: Ship liner distance = 38, speed = 50, displace = 83, optimal time = 0.76
+393: Plain distance = 64, speed = 75, fly distance = 57, lifting capacity = 32 optimal time = 0.76
+394: Train distance = 73, speed = 96, cars number = 82, optimal time = 0.7604166666666666
+395: Train distance = 70, speed = 91, cars number = 61, optimal time = 0.7692307692307693
+396: Train distance = 70, speed = 91, cars number = 11, optimal time = 0.7692307692307693
+397: Ship liner distance = 37, speed = 48, displace = 91, optimal time = 0.7708333333333334
+398: Plain distance = 77, speed = 48, fly distance = 37, lifting capacity = 35 optimal time = 0.7708333333333334
+399: Ship tanker distance = 27, speed = 35, displace = 66, optimal time = 0.7714285714285715
+400: Ship liner distance = 44, speed = 57, displace = 9, optimal time = 0.7719298245614035
+401: Plain distance = 55, speed = 97, fly distance = 75, lifting capacity = 68 optimal time = 0.7731958762886598
+402: Ship liner distance = 53, speed = 68, displace = 28, optimal time = 0.7794117647058824
+403: Ship tanker distance = 36, speed = 46, displace = 11, optimal time = 0.782608695652174
+404: Train distance = 37, speed = 47, cars number = 69, optimal time = 0.7872340425531915
+405: Ship liner distance = 63, speed = 80, displace = 49, optimal time = 0.7875
+406: Train distance = 75, speed = 95, cars number = 9, optimal time = 0.7894736842105263
+407: Train distance = 42, speed = 53, cars number = 92, optimal time = 0.7924528301886793
+408: Ship tanker distance = 23, speed = 29, displace = 41, optimal time = 0.7931034482758621
+409: Plain distance = 97, speed = 34, fly distance = 27, lifting capacity = 34 optimal time = 0.7941176470588235
+410: Train distance = 31, speed = 39, cars number = 31, optimal time = 0.7948717948717948
+411: Train distance = 78, speed = 98, cars number = 98, optimal time = 0.7959183673469388
+412: Plain distance = 37, speed = 65, fly distance = 52, lifting capacity = 12 optimal time = 0.8
+413: Ship liner distance = 8, speed = 10, displace = 74, optimal time = 0.8
+414: Ship liner distance = 56, speed = 70, displace = 25, optimal time = 0.8
+415: Train distance = 44, speed = 55, cars number = 43, optimal time = 0.8
+416: Train distance = 77, speed = 96, cars number = 74, optimal time = 0.8020833333333334
+417: Train distance = 71, speed = 88, cars number = 76, optimal time = 0.8068181818181818
+418: Train distance = 81, speed = 99, cars number = 53, optimal time = 0.8181818181818182
+419: Train distance = 60, speed = 73, cars number = 94, optimal time = 0.821917808219178
+420: Train distance = 37, speed = 45, cars number = 71, optimal time = 0.8222222222222222
+421: Ship tanker distance = 65, speed = 79, displace = 17, optimal time = 0.8227848101265823
+422: Ship tanker distance = 70, speed = 85, displace = 54, optimal time = 0.8235294117647058
+423: Ship tanker distance = 75, speed = 91, displace = 98, optimal time = 0.8241758241758241
+424: Plain distance = 10, speed = 80, fly distance = 66, lifting capacity = 37 optimal time = 0.825
+425: Ship liner distance = 76, speed = 92, displace = 44, optimal time = 0.8260869565217391
+426: Train distance = 81, speed = 98, cars number = 79, optimal time = 0.826530612244898
+427: Train distance = 63, speed = 76, cars number = 32, optimal time = 0.8289473684210527
+428: Train distance = 69, speed = 83, cars number = 75, optimal time = 0.8313253012048193
+429: Ship tug distance = 81, speed = 97, displace = 25, optimal time = 0.8350515463917526
+430: Train distance = 41, speed = 49, cars number = 24, optimal time = 0.8367346938775511
+431: Train distance = 31, speed = 37, cars number = 98, optimal time = 0.8378378378378378
+432: Ship tug distance = 31, speed = 37, displace = 15, optimal time = 0.8378378378378378
+433: Ship liner distance = 31, speed = 37, displace = 44, optimal time = 0.8378378378378378
+434: Train distance = 57, speed = 68, cars number = 67, optimal time = 0.8382352941176471
+435: Plain distance = 51, speed = 31, fly distance = 26, lifting capacity = 78 optimal time = 0.8387096774193549
+436: Ship tug distance = 84, speed = 100, displace = 25, optimal time = 0.84
+437: Ship tanker distance = 79, speed = 94, displace = 2, optimal time = 0.8404255319148937
+438: Plain distance = 44, speed = 98, fly distance = 83, lifting capacity = 29 optimal time = 0.8469387755102041
+439: Train distance = 67, speed = 79, cars number = 26, optimal time = 0.8481012658227848
+440: Train distance = 81, speed = 95, cars number = 45, optimal time = 0.8526315789473684
+441: Train distance = 36, speed = 42, cars number = 57, optimal time = 0.8571428571428571
+442: Train distance = 78, speed = 91, cars number = 72, optimal time = 0.8571428571428571
+443: Train distance = 66, speed = 77, cars number = 44, optimal time = 0.8571428571428571
+444: Plain distance = 90, speed = 84, fly distance = 72, lifting capacity = 96 optimal time = 0.8571428571428571
+445: Ship tanker distance = 25, speed = 29, displace = 95, optimal time = 0.8620689655172413
+446: Plain distance = 10, speed = 95, fly distance = 82, lifting capacity = 14 optimal time = 0.8631578947368421
+447: Plain distance = 48, speed = 45, fly distance = 39, lifting capacity = 84 optimal time = 0.8666666666666667
+448: Train distance = 46, speed = 53, cars number = 85, optimal time = 0.8679245283018868
+449: Plain distance = 77, speed = 92, fly distance = 80, lifting capacity = 100 optimal time = 0.8695652173913043
+450: Plain distance = 77, speed = 100, fly distance = 87, lifting capacity = 87 optimal time = 0.87
+451: Plain distance = 56, speed = 85, fly distance = 74, lifting capacity = 36 optimal time = 0.8705882352941177
+452: Ship tug distance = 54, speed = 62, displace = 93, optimal time = 0.8709677419354839
+453: Train distance = 27, speed = 31, cars number = 64, optimal time = 0.8709677419354839
+454: Ship liner distance = 34, speed = 39, displace = 6, optimal time = 0.8717948717948718
+455: Plain distance = 76, speed = 40, fly distance = 35, lifting capacity = 55 optimal time = 0.875
+456: Ship liner distance = 43, speed = 49, displace = 68, optimal time = 0.8775510204081632
+457: Plain distance = 53, speed = 27, fly distance = 24, lifting capacity = 61 optimal time = 0.8888888888888888
+458: Train distance = 57, speed = 64, cars number = 7, optimal time = 0.890625
+459: Ship tug distance = 82, speed = 92, displace = 80, optimal time = 0.8913043478260869
+460: Ship tug distance = 58, speed = 65, displace = 81, optimal time = 0.8923076923076924
+461: Plain distance = 37, speed = 93, fly distance = 83, lifting capacity = 31 optimal time = 0.8924731182795699
+462: Ship tanker distance = 59, speed = 66, displace = 28, optimal time = 0.8939393939393939
+463: Train distance = 68, speed = 76, cars number = 88, optimal time = 0.8947368421052632
+464: Plain distance = 57, speed = 50, fly distance = 45, lifting capacity = 30 optimal time = 0.9
+465: Ship tug distance = 73, speed = 81, displace = 23, optimal time = 0.9012345679012346
+466: Plain distance = 35, speed = 42, fly distance = 38, lifting capacity = 18 optimal time = 0.9047619047619048
+467: Ship tug distance = 49, speed = 54, displace = 88, optimal time = 0.9074074074074074
+468: Ship tug distance = 59, speed = 65, displace = 89, optimal time = 0.9076923076923077
+469: Train distance = 69, speed = 76, cars number = 54, optimal time = 0.9078947368421053
+470: Train distance = 83, speed = 91, cars number = 64, optimal time = 0.9120879120879121
+471: Ship tanker distance = 32, speed = 35, displace = 12, optimal time = 0.9142857142857143
+472: Plain distance = 50, speed = 70, fly distance = 64, lifting capacity = 42 optimal time = 0.9142857142857143
+473: Plain distance = 51, speed = 59, fly distance = 54, lifting capacity = 6 optimal time = 0.9152542372881356
+474: Train distance = 87, speed = 95, cars number = 18, optimal time = 0.9157894736842105
+475: Train distance = 58, speed = 63, cars number = 95, optimal time = 0.9206349206349206
+476: Train distance = 47, speed = 51, cars number = 15, optimal time = 0.9215686274509803
+477: Ship tug distance = 63, speed = 68, displace = 83, optimal time = 0.9264705882352942
+478: Plain distance = 53, speed = 42, fly distance = 39, lifting capacity = 79 optimal time = 0.9285714285714286
+479: Train distance = 55, speed = 59, cars number = 87, optimal time = 0.9322033898305084
+480: Ship liner distance = 85, speed = 91, displace = 72, optimal time = 0.9340659340659341
+481: Train distance = 86, speed = 92, cars number = 42, optimal time = 0.9347826086956522
+482: Ship tug distance = 30, speed = 32, displace = 91, optimal time = 0.9375
+483: Ship liner distance = 79, speed = 84, displace = 20, optimal time = 0.9404761904761905
+484: Train distance = 71, speed = 75, cars number = 41, optimal time = 0.9466666666666667
+485: Ship tug distance = 19, speed = 20, displace = 35, optimal time = 0.95
+486: Plain distance = 3, speed = 86, fly distance = 82, lifting capacity = 72 optimal time = 0.9534883720930233
+487: Train distance = 94, speed = 98, cars number = 50, optimal time = 0.9591836734693877
+488: Plain distance = 92, speed = 50, fly distance = 48, lifting capacity = 96 optimal time = 0.96
+489: Train distance = 52, speed = 54, cars number = 41, optimal time = 0.9629629629629629
+490: Train distance = 91, speed = 94, cars number = 99, optimal time = 0.9680851063829787
+491: Train distance = 71, speed = 73, cars number = 66, optimal time = 0.9726027397260274
+492: Ship tug distance = 81, speed = 83, displace = 9, optimal time = 0.9759036144578314
+493: Ship tanker distance = 88, speed = 90, displace = 18, optimal time = 0.9777777777777777
+494: Train distance = 44, speed = 45, cars number = 79, optimal time = 0.9777777777777777
+495: Train distance = 98, speed = 100, cars number = 70, optimal time = 0.98
+496: Ship tanker distance = 52, speed = 53, displace = 53, optimal time = 0.9811320754716981
+497: Train distance = 63, speed = 64, cars number = 14, optimal time = 0.984375
+498: Train distance = 66, speed = 67, cars number = 38, optimal time = 0.9850746268656716
+499: Plain distance = 52, speed = 69, fly distance = 68, lifting capacity = 92 optimal time = 0.9855072463768116
+500: Ship tug distance = 68, speed = 69, displace = 50, optimal time = 0.9855072463768116
+501: Plain distance = 68, speed = 70, fly distance = 69, lifting capacity = 77 optimal time = 0.9857142857142858
+502: Plain distance = 83, speed = 75, fly distance = 74, lifting capacity = 15 optimal time = 0.9866666666666667
+503: Plain distance = 14, speed = 78, fly distance = 77, lifting capacity = 35 optimal time = 0.9871794871794872
+504: Train distance = 77, speed = 78, cars number = 21, optimal time = 0.9871794871794872
+505: Plain distance = 39, speed = 85, fly distance = 84, lifting capacity = 92 optimal time = 0.9882352941176471
+506: Ship tanker distance = 85, speed = 86, displace = 88, optimal time = 0.9883720930232558
+507: Ship tanker distance = 12, speed = 12, displace = 46, optimal time = 1.0
+508: Train distance = 26, speed = 26, cars number = 31, optimal time = 1.0
+509: Ship tanker distance = 81, speed = 81, displace = 40, optimal time = 1.0
+510: Plain distance = 5, speed = 66, fly distance = 66, lifting capacity = 11 optimal time = 1.0
+511: Train distance = 38, speed = 38, cars number = 57, optimal time = 1.0
+512: Ship liner distance = 64, speed = 64, displace = 73, optimal time = 1.0
+513: Train distance = 2, speed = 2, cars number = 41, optimal time = 1.0
+514: Plain distance = 27, speed = 69, fly distance = 69, lifting capacity = 42 optimal time = 1.0
+515: Plain distance = 23, speed = 63, fly distance = 63, lifting capacity = 79 optimal time = 1.0
+516: Ship tug distance = 60, speed = 60, displace = 82, optimal time = 1.0
+517: Ship tug distance = 21, speed = 21, displace = 1, optimal time = 1.0
+518: Ship tanker distance = 90, speed = 89, displace = 30, optimal time = 1.0112359550561798
+519: Ship tanker distance = 87, speed = 86, displace = 63, optimal time = 1.0116279069767442
+520: Train distance = 63, speed = 62, cars number = 82, optimal time = 1.0161290322580645
+521: Train distance = 54, speed = 53, cars number = 60, optimal time = 1.0188679245283019
+522: Plain distance = 35, speed = 97, fly distance = 99, lifting capacity = 25 optimal time = 1.0206185567010309
+523: Ship tug distance = 86, speed = 84, displace = 43, optimal time = 1.0238095238095237
+524: Ship liner distance = 82, speed = 80, displace = 41, optimal time = 1.025
+525: Plain distance = 6, speed = 65, fly distance = 67, lifting capacity = 33 optimal time = 1.0307692307692307
+526: Plain distance = 61, speed = 58, fly distance = 60, lifting capacity = 37 optimal time = 1.0344827586206897
+527: Train distance = 89, speed = 86, cars number = 51, optimal time = 1.0348837209302326
+528: Ship tanker distance = 84, speed = 81, displace = 55, optimal time = 1.037037037037037
+529: Train distance = 81, speed = 78, cars number = 56, optimal time = 1.0384615384615385
+530: Ship tug distance = 81, speed = 78, displace = 8, optimal time = 1.0384615384615385
+531: Plain distance = 30, speed = 26, fly distance = 27, lifting capacity = 53 optimal time = 1.0384615384615385
+532: Plain distance = 39, speed = 95, fly distance = 99, lifting capacity = 44 optimal time = 1.0421052631578946
+533: Train distance = 99, speed = 95, cars number = 9, optimal time = 1.0421052631578946
+534: Ship tug distance = 98, speed = 94, displace = 59, optimal time = 1.0425531914893618
+535: Plain distance = 27, speed = 70, fly distance = 73, lifting capacity = 10 optimal time = 1.042857142857143
+536: Train distance = 92, speed = 88, cars number = 29, optimal time = 1.0454545454545454
+537: Plain distance = 28, speed = 40, fly distance = 42, lifting capacity = 99 optimal time = 1.05
+538: Ship tug distance = 60, speed = 57, displace = 19, optimal time = 1.0526315789473684
+539: Plain distance = 8, speed = 91, fly distance = 96, lifting capacity = 34 optimal time = 1.054945054945055
+540: Ship tug distance = 96, speed = 91, displace = 18, optimal time = 1.054945054945055
+541: Ship tanker distance = 72, speed = 68, displace = 60, optimal time = 1.0588235294117647
+542: Ship liner distance = 17, speed = 16, displace = 82, optimal time = 1.0625
+543: Ship liner distance = 84, speed = 79, displace = 94, optimal time = 1.0632911392405062
+544: Train distance = 81, speed = 76, cars number = 14, optimal time = 1.0657894736842106
+545: Train distance = 94, speed = 88, cars number = 55, optimal time = 1.0681818181818181
+546: Train distance = 62, speed = 58, cars number = 38, optimal time = 1.0689655172413792
+547: Ship tanker distance = 93, speed = 87, displace = 77, optimal time = 1.0689655172413792
+548: Plain distance = 12, speed = 71, fly distance = 76, lifting capacity = 3 optimal time = 1.0704225352112675
+549: Plain distance = 7, speed = 90, fly distance = 97, lifting capacity = 12 optimal time = 1.0777777777777777
+550: Plain distance = 51, speed = 75, fly distance = 81, lifting capacity = 7 optimal time = 1.08
+551: Plain distance = 81, speed = 62, fly distance = 67, lifting capacity = 10 optimal time = 1.0806451612903225
+552: Plain distance = 71, speed = 60, fly distance = 65, lifting capacity = 70 optimal time = 1.0833333333333333
+553: Plain distance = 75, speed = 47, fly distance = 51, lifting capacity = 67 optimal time = 1.0851063829787233
+554: Ship liner distance = 50, speed = 46, displace = 99, optimal time = 1.0869565217391304
+555: Ship liner distance = 75, speed = 69, displace = 17, optimal time = 1.0869565217391304
+556: Plain distance = 13, speed = 91, fly distance = 99, lifting capacity = 68 optimal time = 1.0879120879120878
+557: Plain distance = 93, speed = 91, fly distance = 99, lifting capacity = 36 optimal time = 1.0879120879120878
+558: Train distance = 95, speed = 87, cars number = 2, optimal time = 1.0919540229885059
+559: Plain distance = 90, speed = 39, fly distance = 43, lifting capacity = 61 optimal time = 1.1025641025641026
+560: Ship tanker distance = 42, speed = 38, displace = 56, optimal time = 1.105263157894737
+561: Plain distance = 94, speed = 75, fly distance = 83, lifting capacity = 37 optimal time = 1.1066666666666667
+562: Plain distance = 59, speed = 73, fly distance = 81, lifting capacity = 34 optimal time = 1.1095890410958904
+563: Train distance = 80, speed = 72, cars number = 23, optimal time = 1.1111111111111112
+564: Ship tug distance = 96, speed = 86, displace = 100, optimal time = 1.1162790697674418
+565: Plain distance = 72, speed = 77, fly distance = 86, lifting capacity = 95 optimal time = 1.1168831168831168
+566: Plain distance = 13, speed = 17, fly distance = 19, lifting capacity = 74 optimal time = 1.1176470588235294
+567: Plain distance = 1, speed = 74, fly distance = 83, lifting capacity = 95 optimal time = 1.1216216216216217
+568: Train distance = 95, speed = 84, cars number = 8, optimal time = 1.130952380952381
+569: Ship tanker distance = 17, speed = 15, displace = 89, optimal time = 1.1333333333333333
+570: Train distance = 93, speed = 82, cars number = 46, optimal time = 1.1341463414634145
+571: Ship tanker distance = 67, speed = 59, displace = 14, optimal time = 1.1355932203389831
+572: Train distance = 83, speed = 73, cars number = 2, optimal time = 1.1369863013698631
+573: Train distance = 98, speed = 86, cars number = 10, optimal time = 1.1395348837209303
+574: Train distance = 89, speed = 78, cars number = 90, optimal time = 1.141025641025641
+575: Plain distance = 48, speed = 14, fly distance = 16, lifting capacity = 100 optimal time = 1.1428571428571428
+576: Train distance = 8, speed = 7, cars number = 87, optimal time = 1.1428571428571428
+577: Train distance = 32, speed = 28, cars number = 78, optimal time = 1.1428571428571428
+578: Ship tug distance = 86, speed = 75, displace = 21, optimal time = 1.1466666666666667
+579: Ship tanker distance = 85, speed = 74, displace = 46, optimal time = 1.1486486486486487
+580: Plain distance = 50, speed = 74, fly distance = 85, lifting capacity = 8 optimal time = 1.1486486486486487
+581: Plain distance = 10, speed = 13, fly distance = 15, lifting capacity = 7 optimal time = 1.1538461538461537
+582: Plain distance = 1, speed = 78, fly distance = 90, lifting capacity = 17 optimal time = 1.1538461538461537
+583: Ship tug distance = 37, speed = 32, displace = 17, optimal time = 1.15625
+584: Train distance = 95, speed = 82, cars number = 21, optimal time = 1.1585365853658536
+585: Ship tanker distance = 67, speed = 57, displace = 80, optimal time = 1.1754385964912282
+586: Plain distance = 65, speed = 50, fly distance = 59, lifting capacity = 4 optimal time = 1.18
+587: Ship liner distance = 98, speed = 83, displace = 9, optimal time = 1.180722891566265
+588: Train distance = 90, speed = 76, cars number = 81, optimal time = 1.1842105263157894
+589: Plain distance = 21, speed = 37, fly distance = 44, lifting capacity = 46 optimal time = 1.1891891891891893
+590: Ship tug distance = 85, speed = 71, displace = 79, optimal time = 1.1971830985915493
+591: Plain distance = 60, speed = 79, fly distance = 95, lifting capacity = 77 optimal time = 1.2025316455696202
+592: Ship tug distance = 89, speed = 74, displace = 93, optimal time = 1.2027027027027026
+593: Train distance = 100, speed = 83, cars number = 91, optimal time = 1.2048192771084338
+594: Train distance = 88, speed = 73, cars number = 77, optimal time = 1.2054794520547945
+595: Plain distance = 45, speed = 48, fly distance = 58, lifting capacity = 2 optimal time = 1.2083333333333333
+596: Train distance = 81, speed = 67, cars number = 15, optimal time = 1.208955223880597
+597: Train distance = 97, speed = 80, cars number = 25, optimal time = 1.2125
+598: Train distance = 97, speed = 80, cars number = 18, optimal time = 1.2125
+599: Ship tanker distance = 84, speed = 69, displace = 25, optimal time = 1.2173913043478262
+600: Ship tug distance = 95, speed = 78, displace = 82, optimal time = 1.2179487179487178
+601: Ship tug distance = 100, speed = 82, displace = 51, optimal time = 1.2195121951219512
+602: Ship tanker distance = 72, speed = 59, displace = 68, optimal time = 1.2203389830508475
+603: Ship liner distance = 71, speed = 58, displace = 71, optimal time = 1.2241379310344827
+604: Ship liner distance = 98, speed = 80, displace = 76, optimal time = 1.225
+605: Train distance = 92, speed = 75, cars number = 73, optimal time = 1.2266666666666666
+606: Ship tanker distance = 95, speed = 77, displace = 74, optimal time = 1.2337662337662338
+607: Train distance = 21, speed = 17, cars number = 88, optimal time = 1.2352941176470589
+608: Train distance = 78, speed = 63, cars number = 11, optimal time = 1.2380952380952381
+609: Ship tug distance = 98, speed = 79, displace = 36, optimal time = 1.240506329113924
+610: Ship tug distance = 40, speed = 32, displace = 67, optimal time = 1.25
+611: Train distance = 79, speed = 63, cars number = 84, optimal time = 1.253968253968254
+612: Ship tug distance = 49, speed = 39, displace = 67, optimal time = 1.2564102564102564
+613: Train distance = 78, speed = 62, cars number = 50, optimal time = 1.2580645161290323
+614: Ship tug distance = 68, speed = 54, displace = 1, optimal time = 1.2592592592592593
+615: Plain distance = 39, speed = 69, fly distance = 87, lifting capacity = 79 optimal time = 1.2608695652173914
+616: Train distance = 53, speed = 42, cars number = 20, optimal time = 1.2619047619047619
+617: Ship tanker distance = 48, speed = 38, displace = 80, optimal time = 1.263157894736842
+618: Plain distance = 75, speed = 19, fly distance = 24, lifting capacity = 80 optimal time = 1.263157894736842
+619: Train distance = 72, speed = 57, cars number = 22, optimal time = 1.263157894736842
+620: Train distance = 48, speed = 38, cars number = 14, optimal time = 1.263157894736842
+621: Plain distance = 3, speed = 72, fly distance = 91, lifting capacity = 11 optimal time = 1.2638888888888888
+622: Plain distance = 2, speed = 15, fly distance = 19, lifting capacity = 10 optimal time = 1.2666666666666666
+623: Train distance = 79, speed = 62, cars number = 65, optimal time = 1.2741935483870968
+624: Plain distance = 56, speed = 58, fly distance = 74, lifting capacity = 2 optimal time = 1.2758620689655173
+625: Plain distance = 80, speed = 76, fly distance = 97, lifting capacity = 96 optimal time = 1.2763157894736843
+626: Plain distance = 4, speed = 47, fly distance = 60, lifting capacity = 47 optimal time = 1.2765957446808511
+627: Ship liner distance = 92, speed = 72, displace = 66, optimal time = 1.2777777777777777
+628: Plain distance = 14, speed = 78, fly distance = 100, lifting capacity = 77 optimal time = 1.2820512820512822
+629: Ship tug distance = 86, speed = 67, displace = 83, optimal time = 1.2835820895522387
+630: Plain distance = 50, speed = 35, fly distance = 45, lifting capacity = 48 optimal time = 1.2857142857142858
+631: Plain distance = 87, speed = 63, fly distance = 81, lifting capacity = 92 optimal time = 1.2857142857142858
+632: Ship tug distance = 92, speed = 71, displace = 12, optimal time = 1.295774647887324
+633: Train distance = 48, speed = 37, cars number = 26, optimal time = 1.2972972972972974
+634: Plain distance = 49, speed = 67, fly distance = 87, lifting capacity = 2 optimal time = 1.2985074626865671
+635: Train distance = 95, speed = 73, cars number = 36, optimal time = 1.3013698630136987
+636: Train distance = 69, speed = 53, cars number = 3, optimal time = 1.3018867924528301
+637: Plain distance = 17, speed = 48, fly distance = 63, lifting capacity = 65 optimal time = 1.3125
+638: Plain distance = 86, speed = 35, fly distance = 46, lifting capacity = 72 optimal time = 1.3142857142857143
+639: Ship tug distance = 70, speed = 53, displace = 97, optimal time = 1.320754716981132
+640: Ship tug distance = 41, speed = 31, displace = 70, optimal time = 1.3225806451612903
+641: Plain distance = 82, speed = 68, fly distance = 90, lifting capacity = 16 optimal time = 1.3235294117647058
+642: Ship tanker distance = 97, speed = 73, displace = 66, optimal time = 1.3287671232876712
+643: Ship tanker distance = 68, speed = 51, displace = 77, optimal time = 1.3333333333333333
+644: Plain distance = 39, speed = 21, fly distance = 28, lifting capacity = 41 optimal time = 1.3333333333333333
+645: Ship tug distance = 56, speed = 42, displace = 55, optimal time = 1.3333333333333333
+646: Ship liner distance = 28, speed = 21, displace = 20, optimal time = 1.3333333333333333
+647: Plain distance = 18, speed = 44, fly distance = 59, lifting capacity = 95 optimal time = 1.3409090909090908
+648: Ship tug distance = 81, speed = 60, displace = 34, optimal time = 1.35
+649: Ship tug distance = 46, speed = 34, displace = 33, optimal time = 1.3529411764705883
+650: Train distance = 19, speed = 14, cars number = 25, optimal time = 1.3571428571428572
+651: Train distance = 72, speed = 53, cars number = 16, optimal time = 1.3584905660377358
+652: Plain distance = 73, speed = 47, fly distance = 64, lifting capacity = 12 optimal time = 1.3617021276595744
+653: Train distance = 86, speed = 63, cars number = 92, optimal time = 1.3650793650793651
+654: Ship liner distance = 56, speed = 41, displace = 76, optimal time = 1.3658536585365855
+655: Train distance = 87, speed = 63, cars number = 90, optimal time = 1.380952380952381
+656: Plain distance = 21, speed = 47, fly distance = 65, lifting capacity = 79 optimal time = 1.3829787234042554
+657: Plain distance = 17, speed = 41, fly distance = 57, lifting capacity = 69 optimal time = 1.3902439024390243
+658: Ship tanker distance = 67, speed = 48, displace = 34, optimal time = 1.3958333333333333
+659: Plain distance = 46, speed = 68, fly distance = 95, lifting capacity = 31 optimal time = 1.3970588235294117
+660: Plain distance = 68, speed = 70, fly distance = 98, lifting capacity = 49 optimal time = 1.4
+661: Plain distance = 80, speed = 70, fly distance = 98, lifting capacity = 12 optimal time = 1.4
+662: Train distance = 28, speed = 20, cars number = 55, optimal time = 1.4
+663: Train distance = 94, speed = 67, cars number = 57, optimal time = 1.4029850746268657
+664: Train distance = 86, speed = 61, cars number = 87, optimal time = 1.4098360655737705
+665: Plain distance = 39, speed = 46, fly distance = 65, lifting capacity = 39 optimal time = 1.4130434782608696
+666: Train distance = 20, speed = 14, cars number = 63, optimal time = 1.4285714285714286
+667: Plain distance = 33, speed = 69, fly distance = 99, lifting capacity = 72 optimal time = 1.434782608695652
+668: Ship tug distance = 56, speed = 39, displace = 77, optimal time = 1.435897435897436
+669: Train distance = 95, speed = 66, cars number = 79, optimal time = 1.4393939393939394
+670: Ship tug distance = 98, speed = 68, displace = 98, optimal time = 1.4411764705882353
+671: Train distance = 58, speed = 40, cars number = 46, optimal time = 1.45
+672: Plain distance = 6, speed = 60, fly distance = 87, lifting capacity = 69 optimal time = 1.45
+673: Plain distance = 69, speed = 64, fly distance = 93, lifting capacity = 63 optimal time = 1.453125
+674: Ship tanker distance = 16, speed = 11, displace = 23, optimal time = 1.4545454545454546
+675: Plain distance = 38, speed = 45, fly distance = 66, lifting capacity = 96 optimal time = 1.4666666666666666
+676: Ship tug distance = 88, speed = 60, displace = 57, optimal time = 1.4666666666666666
+677: Ship tanker distance = 56, speed = 38, displace = 65, optimal time = 1.4736842105263157
+678: Train distance = 34, speed = 23, cars number = 46, optimal time = 1.4782608695652173
+679: Train distance = 98, speed = 66, cars number = 73, optimal time = 1.4848484848484849
+680: Ship liner distance = 61, speed = 41, displace = 47, optimal time = 1.4878048780487805
+681: Ship tanker distance = 64, speed = 43, displace = 18, optimal time = 1.4883720930232558
+682: Train distance = 70, speed = 47, cars number = 32, optimal time = 1.4893617021276595
+683: Plain distance = 87, speed = 14, fly distance = 21, lifting capacity = 3 optimal time = 1.5
+684: Train distance = 27, speed = 18, cars number = 86, optimal time = 1.5
+685: Ship tug distance = 56, speed = 37, displace = 87, optimal time = 1.5135135135135136
+686: Ship liner distance = 91, speed = 60, displace = 56, optimal time = 1.5166666666666666
+687: Ship liner distance = 61, speed = 40, displace = 79, optimal time = 1.525
+688: Plain distance = 4, speed = 19, fly distance = 29, lifting capacity = 6 optimal time = 1.5263157894736843
+689: Plain distance = 4, speed = 49, fly distance = 75, lifting capacity = 18 optimal time = 1.530612244897959
+690: Train distance = 49, speed = 32, cars number = 45, optimal time = 1.53125
+691: Ship tug distance = 46, speed = 30, displace = 5, optimal time = 1.5333333333333334
+692: Train distance = 63, speed = 41, cars number = 90, optimal time = 1.5365853658536586
+693: Train distance = 71, speed = 46, cars number = 3, optimal time = 1.5434782608695652
+694: Train distance = 68, speed = 44, cars number = 67, optimal time = 1.5454545454545454
+695: Ship tug distance = 99, speed = 64, displace = 10, optimal time = 1.546875
+696: Plain distance = 2, speed = 62, fly distance = 96, lifting capacity = 3 optimal time = 1.5483870967741935
+697: Ship liner distance = 48, speed = 31, displace = 84, optimal time = 1.5483870967741935
+698: Ship liner distance = 48, speed = 31, displace = 42, optimal time = 1.5483870967741935
+699: Train distance = 59, speed = 38, cars number = 1, optimal time = 1.5526315789473684
+700: Plain distance = 12, speed = 45, fly distance = 70, lifting capacity = 39 optimal time = 1.5555555555555556
+701: Train distance = 70, speed = 45, cars number = 6, optimal time = 1.5555555555555556
+702: Train distance = 64, speed = 41, cars number = 37, optimal time = 1.5609756097560976
+703: Ship tug distance = 85, speed = 54, displace = 73, optimal time = 1.5740740740740742
+704: Ship tug distance = 30, speed = 19, displace = 82, optimal time = 1.5789473684210527
+705: Ship liner distance = 62, speed = 39, displace = 11, optimal time = 1.5897435897435896
+706: Train distance = 35, speed = 22, cars number = 46, optimal time = 1.5909090909090908
+707: Train distance = 78, speed = 49, cars number = 52, optimal time = 1.5918367346938775
+708: Train distance = 32, speed = 20, cars number = 16, optimal time = 1.6
+709: Train distance = 93, speed = 58, cars number = 29, optimal time = 1.603448275862069
+710: Ship tug distance = 53, speed = 33, displace = 1, optimal time = 1.606060606060606
+711: Train distance = 95, speed = 59, cars number = 32, optimal time = 1.6101694915254237
+712: Ship tug distance = 50, speed = 31, displace = 16, optimal time = 1.6129032258064515
+713: Plain distance = 70, speed = 39, fly distance = 63, lifting capacity = 41 optimal time = 1.6153846153846154
+714: Plain distance = 47, speed = 50, fly distance = 81, lifting capacity = 73 optimal time = 1.62
+715: Plain distance = 20, speed = 61, fly distance = 99, lifting capacity = 38 optimal time = 1.6229508196721312
+716: Train distance = 65, speed = 40, cars number = 62, optimal time = 1.625
+717: Plain distance = 40, speed = 35, fly distance = 57, lifting capacity = 1 optimal time = 1.6285714285714286
+718: Train distance = 62, speed = 38, cars number = 60, optimal time = 1.631578947368421
+719: Train distance = 93, speed = 57, cars number = 65, optimal time = 1.631578947368421
+720: Train distance = 98, speed = 60, cars number = 81, optimal time = 1.6333333333333333
+721: Train distance = 77, speed = 47, cars number = 21, optimal time = 1.6382978723404256
+722: Ship liner distance = 33, speed = 20, displace = 34, optimal time = 1.65
+723: Plain distance = 16, speed = 23, fly distance = 38, lifting capacity = 25 optimal time = 1.6521739130434783
+724: Plain distance = 53, speed = 38, fly distance = 63, lifting capacity = 20 optimal time = 1.6578947368421053
+725: Train distance = 93, speed = 56, cars number = 60, optimal time = 1.6607142857142858
+726: Train distance = 92, speed = 55, cars number = 76, optimal time = 1.6727272727272726
+727: Train distance = 77, speed = 46, cars number = 82, optimal time = 1.673913043478261
+728: Plain distance = 58, speed = 53, fly distance = 89, lifting capacity = 73 optimal time = 1.679245283018868
+729: Ship tug distance = 37, speed = 22, displace = 34, optimal time = 1.6818181818181819
+730: Plain distance = 14, speed = 48, fly distance = 81, lifting capacity = 23 optimal time = 1.6875
+731: Train distance = 99, speed = 58, cars number = 71, optimal time = 1.706896551724138
+732: Train distance = 91, speed = 53, cars number = 30, optimal time = 1.7169811320754718
+733: Plain distance = 5, speed = 43, fly distance = 74, lifting capacity = 65 optimal time = 1.7209302325581395
+734: Train distance = 93, speed = 54, cars number = 4, optimal time = 1.7222222222222223
+735: Plain distance = 67, speed = 52, fly distance = 90, lifting capacity = 12 optimal time = 1.7307692307692308
+736: Ship tug distance = 54, speed = 31, displace = 27, optimal time = 1.7419354838709677
+737: Train distance = 14, speed = 8, cars number = 93, optimal time = 1.75
+738: Ship liner distance = 35, speed = 20, displace = 29, optimal time = 1.75
+739: Ship liner distance = 91, speed = 52, displace = 75, optimal time = 1.75
+740: Ship liner distance = 79, speed = 45, displace = 9, optimal time = 1.7555555555555555
+741: Ship tug distance = 44, speed = 25, displace = 100, optimal time = 1.76
+742: Ship tug distance = 92, speed = 52, displace = 89, optimal time = 1.7692307692307692
+743: Plain distance = 69, speed = 31, fly distance = 55, lifting capacity = 30 optimal time = 1.7741935483870968
+744: Ship liner distance = 89, speed = 50, displace = 35, optimal time = 1.78
+745: Train distance = 75, speed = 42, cars number = 56, optimal time = 1.7857142857142858
+746: Ship tug distance = 97, speed = 54, displace = 46, optimal time = 1.7962962962962963
+747: Train distance = 72, speed = 40, cars number = 27, optimal time = 1.8
+748: Plain distance = 18, speed = 10, fly distance = 18, lifting capacity = 31 optimal time = 1.8
+749: Plain distance = 22, speed = 54, fly distance = 98, lifting capacity = 18 optimal time = 1.8148148148148149
+750: Ship tanker distance = 60, speed = 33, displace = 35, optimal time = 1.8181818181818181
+751: Plain distance = 42, speed = 51, fly distance = 93, lifting capacity = 57 optimal time = 1.8235294117647058
+752: Ship tanker distance = 68, speed = 37, displace = 20, optimal time = 1.837837837837838
+753: Plain distance = 20, speed = 44, fly distance = 81, lifting capacity = 100 optimal time = 1.8409090909090908
+754: Train distance = 54, speed = 29, cars number = 47, optimal time = 1.8620689655172413
+755: Train distance = 82, speed = 44, cars number = 19, optimal time = 1.8636363636363635
+756: Train distance = 73, speed = 39, cars number = 66, optimal time = 1.8717948717948718
+757: Plain distance = 99, speed = 40, fly distance = 75, lifting capacity = 16 optimal time = 1.875
+758: Plain distance = 54, speed = 16, fly distance = 30, lifting capacity = 26 optimal time = 1.875
+759: Plain distance = 100, speed = 40, fly distance = 75, lifting capacity = 7 optimal time = 1.875
+760: Ship liner distance = 47, speed = 25, displace = 28, optimal time = 1.88
+761: Train distance = 32, speed = 17, cars number = 12, optimal time = 1.8823529411764706
+762: Train distance = 98, speed = 52, cars number = 58, optimal time = 1.8846153846153846
+763: Train distance = 85, speed = 45, cars number = 96, optimal time = 1.8888888888888888
+764: Ship liner distance = 17, speed = 9, displace = 85, optimal time = 1.8888888888888888
+765: Plain distance = 38, speed = 41, fly distance = 78, lifting capacity = 72 optimal time = 1.9024390243902438
+766: Ship tanker distance = 82, speed = 43, displace = 15, optimal time = 1.9069767441860466
+767: Plain distance = 61, speed = 23, fly distance = 44, lifting capacity = 51 optimal time = 1.9130434782608696
+768: Plain distance = 22, speed = 15, fly distance = 29, lifting capacity = 5 optimal time = 1.9333333333333333
+769: Plain distance = 55, speed = 44, fly distance = 86, lifting capacity = 12 optimal time = 1.9545454545454546
+770: Train distance = 47, speed = 24, cars number = 66, optimal time = 1.9583333333333333
+771: Ship liner distance = 100, speed = 51, displace = 54, optimal time = 1.9607843137254901
+772: Ship liner distance = 67, speed = 34, displace = 98, optimal time = 1.9705882352941178
+773: Ship liner distance = 85, speed = 43, displace = 68, optimal time = 1.9767441860465116
+774: Ship tug distance = 18, speed = 9, displace = 73, optimal time = 2.0
+775: Ship tanker distance = 66, speed = 33, displace = 60, optimal time = 2.0
+776: Plain distance = 13, speed = 47, fly distance = 95, lifting capacity = 91 optimal time = 2.021276595744681
+777: Ship tanker distance = 93, speed = 46, displace = 9, optimal time = 2.0217391304347827
+778: Train distance = 79, speed = 39, cars number = 57, optimal time = 2.0256410256410255
+779: Train distance = 84, speed = 41, cars number = 58, optimal time = 2.048780487804878
+780: Train distance = 52, speed = 25, cars number = 34, optimal time = 2.08
+781: Ship tug distance = 25, speed = 12, displace = 31, optimal time = 2.0833333333333335
+782: Ship tanker distance = 88, speed = 42, displace = 100, optimal time = 2.0952380952380953
+783: Ship tug distance = 78, speed = 37, displace = 41, optimal time = 2.108108108108108
+784: Ship tug distance = 53, speed = 25, displace = 82, optimal time = 2.12
+785: Ship liner distance = 49, speed = 23, displace = 74, optimal time = 2.130434782608696
+786: Ship liner distance = 81, speed = 37, displace = 60, optimal time = 2.189189189189189
+787: Ship tug distance = 55, speed = 25, displace = 41, optimal time = 2.2
+788: Train distance = 11, speed = 5, cars number = 98, optimal time = 2.2
+789: Train distance = 86, speed = 39, cars number = 85, optimal time = 2.2051282051282053
+790: Plain distance = 16, speed = 39, fly distance = 86, lifting capacity = 100 optimal time = 2.2051282051282053
+791: Plain distance = 10, speed = 29, fly distance = 64, lifting capacity = 3 optimal time = 2.206896551724138
+792: Plain distance = 99, speed = 45, fly distance = 100, lifting capacity = 19 optimal time = 2.2222222222222223
+793: Ship liner distance = 49, speed = 22, displace = 12, optimal time = 2.227272727272727
+794: Train distance = 78, speed = 35, cars number = 60, optimal time = 2.2285714285714286
+795: Ship liner distance = 67, speed = 30, displace = 52, optimal time = 2.2333333333333334
+796: Ship tug distance = 76, speed = 34, displace = 29, optimal time = 2.235294117647059
+797: Plain distance = 50, speed = 4, fly distance = 9, lifting capacity = 96 optimal time = 2.25
+798: Plain distance = 6, speed = 20, fly distance = 45, lifting capacity = 76 optimal time = 2.25
+799: Ship liner distance = 66, speed = 29, displace = 53, optimal time = 2.2758620689655173
+800: Plain distance = 23, speed = 43, fly distance = 98, lifting capacity = 5 optimal time = 2.2790697674418605
+801: Train distance = 30, speed = 13, cars number = 68, optimal time = 2.3076923076923075
+802: Train distance = 88, speed = 38, cars number = 20, optimal time = 2.3157894736842106
+803: Plain distance = 55, speed = 19, fly distance = 44, lifting capacity = 53 optimal time = 2.3157894736842106
+804: Ship liner distance = 61, speed = 26, displace = 58, optimal time = 2.3461538461538463
+805: Plain distance = 43, speed = 20, fly distance = 47, lifting capacity = 37 optimal time = 2.35
+806: Ship liner distance = 99, speed = 42, displace = 25, optimal time = 2.357142857142857
+807: Train distance = 97, speed = 41, cars number = 69, optimal time = 2.3658536585365852
+808: Plain distance = 80, speed = 8, fly distance = 19, lifting capacity = 58 optimal time = 2.375
+809: Plain distance = 62, speed = 29, fly distance = 69, lifting capacity = 39 optimal time = 2.3793103448275863
+810: Plain distance = 86, speed = 34, fly distance = 81, lifting capacity = 77 optimal time = 2.3823529411764706
+811: Ship tug distance = 86, speed = 36, displace = 4, optimal time = 2.388888888888889
+812: Ship tug distance = 55, speed = 23, displace = 2, optimal time = 2.391304347826087
+813: Plain distance = 88, speed = 33, fly distance = 80, lifting capacity = 84 optimal time = 2.4242424242424243
+814: Plain distance = 87, speed = 35, fly distance = 85, lifting capacity = 26 optimal time = 2.4285714285714284
+815: Plain distance = 67, speed = 30, fly distance = 73, lifting capacity = 53 optimal time = 2.433333333333333
+816: Ship tug distance = 78, speed = 32, displace = 44, optimal time = 2.4375
+817: Plain distance = 59, speed = 25, fly distance = 61, lifting capacity = 44 optimal time = 2.44
+818: Plain distance = 85, speed = 34, fly distance = 83, lifting capacity = 90 optimal time = 2.4411764705882355
+819: Ship tanker distance = 81, speed = 33, displace = 11, optimal time = 2.4545454545454546
+820: Plain distance = 88, speed = 13, fly distance = 32, lifting capacity = 39 optimal time = 2.4615384615384617
+821: Ship liner distance = 74, speed = 30, displace = 38, optimal time = 2.466666666666667
+822: Ship tug distance = 100, speed = 40, displace = 10, optimal time = 2.5
+823: Train distance = 35, speed = 14, cars number = 2, optimal time = 2.5
+824: Train distance = 98, speed = 39, cars number = 2, optimal time = 2.5128205128205128
+825: Plain distance = 40, speed = 11, fly distance = 28, lifting capacity = 46 optimal time = 2.5454545454545454
+826: Train distance = 97, speed = 38, cars number = 32, optimal time = 2.5526315789473686
+827: Plain distance = 69, speed = 38, fly distance = 97, lifting capacity = 12 optimal time = 2.5526315789473686
+828: Plain distance = 87, speed = 9, fly distance = 23, lifting capacity = 47 optimal time = 2.5555555555555554
+829: Train distance = 59, speed = 23, cars number = 78, optimal time = 2.5652173913043477
+830: Train distance = 59, speed = 23, cars number = 15, optimal time = 2.5652173913043477
+831: Ship tanker distance = 72, speed = 28, displace = 58, optimal time = 2.5714285714285716
+832: Ship liner distance = 49, speed = 19, displace = 50, optimal time = 2.5789473684210527
+833: Train distance = 62, speed = 24, cars number = 71, optimal time = 2.5833333333333335
+834: Train distance = 96, speed = 37, cars number = 11, optimal time = 2.5945945945945947
+835: Plain distance = 22, speed = 15, fly distance = 39, lifting capacity = 62 optimal time = 2.6
+836: Ship liner distance = 47, speed = 18, displace = 10, optimal time = 2.611111111111111
+837: Ship tug distance = 47, speed = 18, displace = 59, optimal time = 2.611111111111111
+838: Train distance = 63, speed = 24, cars number = 24, optimal time = 2.625
+839: Plain distance = 83, speed = 8, fly distance = 21, lifting capacity = 10 optimal time = 2.625
+840: Train distance = 71, speed = 27, cars number = 32, optimal time = 2.6296296296296298
+841: Ship liner distance = 95, speed = 36, displace = 98, optimal time = 2.638888888888889
+842: Plain distance = 55, speed = 17, fly distance = 45, lifting capacity = 54 optimal time = 2.6470588235294117
+843: Ship tug distance = 91, speed = 34, displace = 36, optimal time = 2.676470588235294
+844: Ship liner distance = 73, speed = 27, displace = 80, optimal time = 2.7037037037037037
+845: Plain distance = 32, speed = 34, fly distance = 92, lifting capacity = 90 optimal time = 2.7058823529411766
+846: Plain distance = 81, speed = 21, fly distance = 57, lifting capacity = 84 optimal time = 2.7142857142857144
+847: Ship tanker distance = 76, speed = 28, displace = 6, optimal time = 2.7142857142857144
+848: Train distance = 76, speed = 28, cars number = 86, optimal time = 2.7142857142857144
+849: Train distance = 60, speed = 22, cars number = 28, optimal time = 2.727272727272727
+850: Ship liner distance = 71, speed = 26, displace = 27, optimal time = 2.730769230769231
+851: Train distance = 82, speed = 30, cars number = 62, optimal time = 2.7333333333333334
+852: Train distance = 91, speed = 33, cars number = 28, optimal time = 2.757575757575758
+853: Train distance = 75, speed = 27, cars number = 21, optimal time = 2.7777777777777777
+854: Plain distance = 17, speed = 29, fly distance = 81, lifting capacity = 21 optimal time = 2.793103448275862
+855: Plain distance = 56, speed = 15, fly distance = 42, lifting capacity = 54 optimal time = 2.8
+856: Plain distance = 46, speed = 21, fly distance = 59, lifting capacity = 87 optimal time = 2.8095238095238093
+857: Ship tug distance = 91, speed = 32, displace = 42, optimal time = 2.84375
+858: Ship liner distance = 98, speed = 34, displace = 94, optimal time = 2.8823529411764706
+859: Plain distance = 81, speed = 26, fly distance = 75, lifting capacity = 68 optimal time = 2.8846153846153846
+860: Plain distance = 87, speed = 32, fly distance = 93, lifting capacity = 73 optimal time = 2.90625
+861: Plain distance = 67, speed = 8, fly distance = 24, lifting capacity = 25 optimal time = 3.0
+862: Train distance = 75, speed = 25, cars number = 61, optimal time = 3.0
+863: Plain distance = 46, speed = 24, fly distance = 72, lifting capacity = 90 optimal time = 3.0
+864: Plain distance = 59, speed = 2, fly distance = 6, lifting capacity = 98 optimal time = 3.0
+865: Ship liner distance = 86, speed = 28, displace = 66, optimal time = 3.0714285714285716
+866: Train distance = 40, speed = 13, cars number = 83, optimal time = 3.076923076923077
+867: Plain distance = 73, speed = 12, fly distance = 37, lifting capacity = 7 optimal time = 3.0833333333333335
+868: Train distance = 47, speed = 15, cars number = 76, optimal time = 3.1333333333333333
+869: Train distance = 60, speed = 19, cars number = 47, optimal time = 3.1578947368421053
+870: Ship tug distance = 42, speed = 13, displace = 80, optimal time = 3.230769230769231
+871: Ship tanker distance = 75, speed = 23, displace = 37, optimal time = 3.260869565217391
+872: Ship tanker distance = 69, speed = 21, displace = 1, optimal time = 3.2857142857142856
+873: Ship liner distance = 57, speed = 17, displace = 14, optimal time = 3.3529411764705883
+874: Train distance = 54, speed = 16, cars number = 51, optimal time = 3.375
+875: Ship liner distance = 61, speed = 18, displace = 16, optimal time = 3.388888888888889
+876: Plain distance = 34, speed = 28, fly distance = 95, lifting capacity = 26 optimal time = 3.392857142857143
+877: Ship tug distance = 58, speed = 17, displace = 97, optimal time = 3.411764705882353
+878: Train distance = 41, speed = 12, cars number = 95, optimal time = 3.4166666666666665
+879: Ship tanker distance = 24, speed = 7, displace = 61, optimal time = 3.4285714285714284
+880: Ship liner distance = 55, speed = 16, displace = 26, optimal time = 3.4375
+881: Plain distance = 29, speed = 24, fly distance = 83, lifting capacity = 38 optimal time = 3.4583333333333335
+882: Ship liner distance = 52, speed = 15, displace = 59, optimal time = 3.466666666666667
+883: Ship liner distance = 59, speed = 17, displace = 88, optimal time = 3.4705882352941178
+884: Train distance = 14, speed = 4, cars number = 51, optimal time = 3.5
+885: Ship tug distance = 63, speed = 18, displace = 78, optimal time = 3.5
+886: Train distance = 93, speed = 26, cars number = 41, optimal time = 3.576923076923077
+887: Train distance = 65, speed = 18, cars number = 21, optimal time = 3.611111111111111
+888: Train distance = 40, speed = 11, cars number = 62, optimal time = 3.6363636363636362
+889: Train distance = 33, speed = 9, cars number = 79, optimal time = 3.6666666666666665
+890: Train distance = 59, speed = 16, cars number = 80, optimal time = 3.6875
+891: Plain distance = 41, speed = 23, fly distance = 86, lifting capacity = 46 optimal time = 3.739130434782609
+892: Ship tanker distance = 83, speed = 22, displace = 30, optimal time = 3.772727272727273
+893: Ship tanker distance = 34, speed = 9, displace = 93, optimal time = 3.7777777777777777
+894: Ship tug distance = 92, speed = 24, displace = 36, optimal time = 3.8333333333333335
+895: Ship tug distance = 90, speed = 23, displace = 8, optimal time = 3.9130434782608696
+896: Ship tanker distance = 76, speed = 19, displace = 3, optimal time = 4.0
+897: Plain distance = 16, speed = 17, fly distance = 68, lifting capacity = 53 optimal time = 4.0
+898: Train distance = 56, speed = 14, cars number = 93, optimal time = 4.0
+899: Plain distance = 27, speed = 18, fly distance = 72, lifting capacity = 88 optimal time = 4.0
+900: Ship tanker distance = 24, speed = 6, displace = 83, optimal time = 4.0
+901: Train distance = 94, speed = 23, cars number = 39, optimal time = 4.086956521739131
+902: Train distance = 86, speed = 21, cars number = 79, optimal time = 4.095238095238095
+903: Plain distance = 51, speed = 20, fly distance = 82, lifting capacity = 91 optimal time = 4.1
+904: Plain distance = 21, speed = 19, fly distance = 78, lifting capacity = 70 optimal time = 4.105263157894737
+905: Ship tug distance = 71, speed = 17, displace = 68, optimal time = 4.176470588235294
+906: Train distance = 63, speed = 15, cars number = 37, optimal time = 4.2
+907: Train distance = 47, speed = 11, cars number = 72, optimal time = 4.2727272727272725
+908: Plain distance = 31, speed = 14, fly distance = 61, lifting capacity = 49 optimal time = 4.357142857142857
+909: Plain distance = 73, speed = 13, fly distance = 57, lifting capacity = 79 optimal time = 4.384615384615385
+910: Ship tanker distance = 93, speed = 21, displace = 75, optimal time = 4.428571428571429
+911: Plain distance = 30, speed = 21, fly distance = 94, lifting capacity = 92 optimal time = 4.476190476190476
+912: Train distance = 77, speed = 17, cars number = 50, optimal time = 4.529411764705882
+913: Ship liner distance = 56, speed = 12, displace = 38, optimal time = 4.666666666666667
+914: Ship tug distance = 33, speed = 7, displace = 85, optimal time = 4.714285714285714
+915: Plain distance = 63, speed = 19, fly distance = 90, lifting capacity = 90 optimal time = 4.7368421052631575
+916: Plain distance = 60, speed = 20, fly distance = 96, lifting capacity = 90 optimal time = 4.8
+917: Plain distance = 88, speed = 12, fly distance = 58, lifting capacity = 17 optimal time = 4.833333333333333
+918: Plain distance = 18, speed = 13, fly distance = 63, lifting capacity = 57 optimal time = 4.846153846153846
+919: Train distance = 68, speed = 14, cars number = 89, optimal time = 4.857142857142857
+920: Plain distance = 20, speed = 8, fly distance = 39, lifting capacity = 3 optimal time = 4.875
+921: Ship tanker distance = 49, speed = 10, displace = 67, optimal time = 4.9
+922: Train distance = 54, speed = 11, cars number = 8, optimal time = 4.909090909090909
+923: Ship liner distance = 54, speed = 11, displace = 41, optimal time = 4.909090909090909
+924: Plain distance = 99, speed = 14, fly distance = 69, lifting capacity = 50 optimal time = 4.928571428571429
+925: Ship liner distance = 84, speed = 17, displace = 29, optimal time = 4.9411764705882355
+926: Ship tug distance = 75, speed = 15, displace = 64, optimal time = 5.0
+927: Plain distance = 2, speed = 13, fly distance = 66, lifting capacity = 49 optimal time = 5.076923076923077
+928: Ship liner distance = 66, speed = 13, displace = 71, optimal time = 5.076923076923077
+929: Train distance = 98, speed = 19, cars number = 68, optimal time = 5.157894736842105
+930: Plain distance = 100, speed = 14, fly distance = 73, lifting capacity = 58 optimal time = 5.214285714285714
+931: Plain distance = 64, speed = 12, fly distance = 67, lifting capacity = 60 optimal time = 5.583333333333333
+932: Train distance = 56, speed = 10, cars number = 58, optimal time = 5.6
+933: Ship tug distance = 86, speed = 15, displace = 39, optimal time = 5.733333333333333
+934: Plain distance = 66, speed = 9, fly distance = 52, lifting capacity = 32 optimal time = 5.777777777777778
+935: Train distance = 75, speed = 12, cars number = 38, optimal time = 6.25
+936: Ship liner distance = 82, speed = 13, displace = 67, optimal time = 6.3076923076923075
+937: Ship tug distance = 78, speed = 12, displace = 91, optimal time = 6.5
+938: Ship tug distance = 33, speed = 5, displace = 54, optimal time = 6.6
+939: Ship liner distance = 48, speed = 7, displace = 82, optimal time = 6.857142857142857
+940: Plain distance = 52, speed = 11, fly distance = 77, lifting capacity = 100 optimal time = 7.0
+941: Train distance = 94, speed = 13, cars number = 35, optimal time = 7.230769230769231
+942: Train distance = 74, speed = 10, cars number = 99, optimal time = 7.4
+943: Ship tug distance = 67, speed = 9, displace = 50, optimal time = 7.444444444444445
+944: Ship tanker distance = 84, speed = 11, displace = 8, optimal time = 7.636363636363637
+945: Ship tanker distance = 69, speed = 9, displace = 17, optimal time = 7.666666666666667
+946: Plain distance = 61, speed = 7, fly distance = 54, lifting capacity = 19 optimal time = 7.714285714285714
+947: Train distance = 79, speed = 10, cars number = 41, optimal time = 7.9
+948: Ship liner distance = 48, speed = 6, displace = 74, optimal time = 8.0
+949: Plain distance = 52, speed = 10, fly distance = 80, lifting capacity = 47 optimal time = 8.0
+950: Ship tanker distance = 74, speed = 9, displace = 60, optimal time = 8.222222222222221
+951: Train distance = 78, speed = 9, cars number = 65, optimal time = 8.666666666666666
+952: Plain distance = 43, speed = 3, fly distance = 26, lifting capacity = 12 optimal time = 8.666666666666666
+953: Ship tug distance = 35, speed = 4, displace = 94, optimal time = 8.75
+954: Ship liner distance = 27, speed = 3, displace = 66, optimal time = 9.0
+955: Plain distance = 8, speed = 8, fly distance = 73, lifting capacity = 99 optimal time = 9.125
+956: Train distance = 37, speed = 4, cars number = 84, optimal time = 9.25
+957: Plain distance = 43, speed = 8, fly distance = 76, lifting capacity = 77 optimal time = 9.5
+958: Plain distance = 79, speed = 8, fly distance = 78, lifting capacity = 69 optimal time = 9.75
+959: Ship tanker distance = 88, speed = 9, displace = 75, optimal time = 9.777777777777779
+960: Ship liner distance = 89, speed = 9, displace = 54, optimal time = 9.88888888888889
+961: Train distance = 93, speed = 9, cars number = 20, optimal time = 10.333333333333334
+962: Train distance = 94, speed = 9, cars number = 81, optimal time = 10.444444444444445
+963: Ship tug distance = 84, speed = 8, displace = 94, optimal time = 10.5
+964: Plain distance = 56, speed = 8, fly distance = 86, lifting capacity = 13 optimal time = 10.75
+965: Plain distance = 63, speed = 5, fly distance = 54, lifting capacity = 99 optimal time = 10.8
+966: Ship liner distance = 68, speed = 6, displace = 61, optimal time = 11.333333333333334
+967: Train distance = 93, speed = 8, cars number = 10, optimal time = 11.625
+968: Ship tug distance = 100, speed = 8, displace = 84, optimal time = 12.5
+969: Train distance = 52, speed = 4, cars number = 28, optimal time = 13.0
+970: Train distance = 93, speed = 7, cars number = 78, optimal time = 13.285714285714286
+971: Plain distance = 63, speed = 4, fly distance = 55, lifting capacity = 80 optimal time = 13.75
+972: Ship tanker distance = 55, speed = 4, displace = 71, optimal time = 13.75
+973: Plain distance = 42, speed = 7, fly distance = 97, lifting capacity = 31 optimal time = 13.857142857142858
+974: Plain distance = 36, speed = 7, fly distance = 99, lifting capacity = 85 optimal time = 14.142857142857142
+975: Ship tug distance = 29, speed = 2, displace = 10, optimal time = 14.5
+976: Train distance = 77, speed = 5, cars number = 7, optimal time = 15.4
+977: Ship tug distance = 80, speed = 5, displace = 54, optimal time = 16.0
+978: Train distance = 81, speed = 5, cars number = 42, optimal time = 16.2
+979: Plain distance = 15, speed = 2, fly distance = 33, lifting capacity = 47 optimal time = 16.5
+980: Plain distance = 27, speed = 3, fly distance = 50, lifting capacity = 70 optimal time = 16.666666666666668
+981: Plain distance = 36, speed = 5, fly distance = 90, lifting capacity = 42 optimal time = 18.0
+982: Plain distance = 3, speed = 4, fly distance = 74, lifting capacity = 59 optimal time = 18.5
+983: Train distance = 75, speed = 4, cars number = 91, optimal time = 18.75
+984: Ship liner distance = 39, speed = 2, displace = 16, optimal time = 19.5
+985: Ship tanker distance = 44, speed = 2, displace = 69, optimal time = 22.0
+986: Plain distance = 63, speed = 2, fly distance = 46, lifting capacity = 79 optimal time = 23.0
+987: Train distance = 92, speed = 4, cars number = 46, optimal time = 23.0
+988: Plain distance = 93, speed = 3, fly distance = 72, lifting capacity = 98 optimal time = 24.0
+989: Plain distance = 81, speed = 1, fly distance = 25, lifting capacity = 58 optimal time = 25.0
+990: Train distance = 25, speed = 1, cars number = 47, optimal time = 25.0
+991: Ship tug distance = 75, speed = 3, displace = 78, optimal time = 25.0
+992: Ship tug distance = 54, speed = 2, displace = 41, optimal time = 27.0
+993: Train distance = 29, speed = 1, cars number = 85, optimal time = 29.0
+994: Ship tanker distance = 86, speed = 2, displace = 86, optimal time = 43.0
+995: Train distance = 86, speed = 2, cars number = 19, optimal time = 43.0
+996: Plain distance = 91, speed = 1, fly distance = 45, lifting capacity = 8 optimal time = 45.0
+997: Ship liner distance = 65, speed = 1, displace = 74, optimal time = 65.0
+998: Train distance = 91, speed = 1, cars number = 65, optimal time = 91.0
+999: Ship tug distance = 92, speed = 1, displace = 55, optimal time = 92.0
+1000: Plain distance = 18, speed = 1, fly distance = 98, lifting capacity = 79 optimal time = 98.0

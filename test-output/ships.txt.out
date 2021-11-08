@@ -1,0 +1,7 @@
+Container:
+1: Ship liner distance = 23, speed = 2, displace = 43, optimal time = 11.5
+2: Ship liner distance = 27, speed = 14, displace = 93, optimal time = 1.9285714285714286
+3: Ship tug distance = 9, speed = 2, displace = 38, optimal time = 4.5
+4: Ship tug distance = 48, speed = 11, displace = 57, optimal time = 4.363636363636363
+5: Ship tanker distance = 69, speed = 16, displace = 25, optimal time = 4.3125
+6: Ship tanker distance = 69, speed = 16, displace = 81, optimal time = 4.3125

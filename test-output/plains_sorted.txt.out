@@ -1,0 +1,6 @@
+Sorted container:
+1: Plain distance = 65, speed = 86, fly distance = 8, lifting capacity = 97 optimal time = 0.09302325581395349
+2: Plain distance = 58, speed = 83, fly distance = 10, lifting capacity = 47 optimal time = 0.12048192771084337
+3: Plain distance = 68, speed = 58, fly distance = 16, lifting capacity = 88 optimal time = 0.27586206896551724
+4: Plain distance = 40, speed = 12, fly distance = 5, lifting capacity = 33 optimal time = 0.4166666666666667
+5: Plain distance = 90, speed = 22, fly distance = 14, lifting capacity = 20 optimal time = 0.6363636363636364

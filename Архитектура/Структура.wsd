@@ -1,0 +1,83 @@
+
+package main {
+    object message1
+    object message2
+    class "main()"
+}
+
+
+message1 --> "main()"
+message2 --> "main()"
+
+package transport {
+    class Transport {
+        distance
+        speed
+        in_from_file(file)
+        in_rnd()
+        out(file)
+        optimal_time()
+    }
+
+}
+
+package train {
+    class Train {
+        cars_number
+        in_from_file(file)
+        in_rnd()
+        out(file)
+    }
+}
+
+package ship {
+    class Ship {
+        displace
+        kind
+        in_from_file(file)
+        in_rnd()
+        out(file)
+    }
+}
+
+package plain {
+    class Plain {
+        fly_distace
+        lifting_capacity
+        in_from_file(file)
+        in_rnd()
+        out(file)
+        optimal_time()
+    }
+}
+
+package container {
+    class Container {
+        array
+        in_from_file(file)
+        in_rnd(n)
+        out(file)
+        straight_selection_sort()
+    }
+}
+
+Transport --|> Train
+Transport --|> Ship
+Transport --|> Plain
+
+transport ..> train
+transport ..> plain
+transport ..> ship
+
+Train --o Container
+Ship --o Container
+Plain --o Container
+
+train ..> container
+plain ..> container
+ship ..> container
+
+
+container ..> main
+
+Container -> "main()"

@@ -1,0 +1,10 @@
+plain 83 59 36 53
+ship 1 85 83 liner
+ship 53 65 95 tanker
+ship 66 87 92 tug
+train 86 31 75
+train 61 47 7
+plain 97 57 56 79
+plain 43 84 41 43
+ship 75 57 30 tug
+train 25 20 56

@@ -1,0 +1,11 @@
+Container:
+1: Plain distance = 83, speed = 59, fly distance = 36, lifting capacity = 53 optimal time = 0.6101694915254238
+2: Ship liner distance = 1, speed = 85, displace = 83, optimal time = 0.011764705882352941
+3: Ship tanker distance = 53, speed = 65, displace = 95, optimal time = 0.8153846153846154
+4: Ship tug distance = 66, speed = 87, displace = 92, optimal time = 0.7586206896551724
+5: Train distance = 86, speed = 31, cars number = 75, optimal time = 2.774193548387097
+6: Train distance = 61, speed = 47, cars number = 7, optimal time = 1.297872340425532
+7: Plain distance = 97, speed = 57, fly distance = 56, lifting capacity = 79 optimal time = 0.9824561403508771
+8: Plain distance = 43, speed = 84, fly distance = 41, lifting capacity = 43 optimal time = 0.4880952380952381
+9: Ship tug distance = 75, speed = 57, displace = 30, optimal time = 1.3157894736842106
+10: Train distance = 25, speed = 20, cars number = 56, optimal time = 1.25
